@@ -1,0 +1,5020 @@
+[
+  {
+    "id": "angulotl-cleaver",
+    "name": "Angulotl Cleaver",
+    "types": [
+      "Angulotl",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "angulotl-pollywog",
+    "name": "Angulotl Pollywog",
+    "types": [
+      "Angulotl"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "angulotl-dart",
+    "name": "Angulotl Dart",
+    "types": [
+      "Angulotl",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "clawfish",
+    "name": "Clawfish",
+    "types": [
+      "Angulotl",
+      "Animal"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "angulotl-needler",
+    "name": "Angulotl Needler",
+    "types": [
+      "Angulotl",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "angulotl-slink",
+    "name": "Angulotl Slink",
+    "types": [
+      "Angulotl",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "angulotl-wave",
+    "name": "Angulotl Wave",
+    "types": [
+      "Angulotl",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "controller",
+    "level": 1
+  },
+  {
+    "id": "angulotl-daybringer",
+    "name": "Angulotl Daybringer",
+    "types": [
+      "Angulotl",
+      "Humanoid"
+    ],
+    "encounterValue": 12,
+    "organization": "leader",
+    "role": "leader",
+    "level": 1
+  },
+  {
+    "id": "animal",
+    "name": "Animal",
+    "types": [
+      "Animal"
+    ],
+    "encounterValue": 12,
+    "organization": "elite",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "animal-swarm",
+    "name": "Animal Swarm",
+    "types": [
+      "Animal",
+      "Swarm"
+    ],
+    "encounterValue": 12,
+    "organization": "elite",
+    "role": "hexer",
+    "level": 1
+  },
+  {
+    "id": "big-animal-a",
+    "name": "Big Animal A",
+    "types": [
+      "Animal"
+    ],
+    "encounterValue": 12,
+    "organization": "elite",
+    "role": "mount",
+    "level": 1
+  },
+  {
+    "id": "big-animal-b",
+    "name": "Big Animal B",
+    "types": [
+      "Animal"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "mount",
+    "level": 2
+  },
+  {
+    "id": "predator-a",
+    "name": "Predator A",
+    "types": [
+      "Animal"
+    ],
+    "encounterValue": 12,
+    "organization": "elite",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "predator-b",
+    "name": "Predator B",
+    "types": [
+      "Animal"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "brute",
+    "level": 3
+  },
+  {
+    "id": "arixx",
+    "name": "Arixx",
+    "types": [
+      "Arixx",
+      "Beast"
+    ],
+    "encounterValue": 36,
+    "organization": "solo",
+    "role": "solo",
+    "level": 1
+  },
+  {
+    "id": "ashen-hoarder",
+    "name": "Ashen Hoarder",
+    "types": [
+      "Construct",
+      "Undead"
+    ],
+    "encounterValue": 72,
+    "organization": "solo",
+    "role": "solo",
+    "level": 4
+  },
+  {
+    "id": "basilisk",
+    "name": "Basilisk",
+    "types": [
+      "Basilisk",
+      "Beast"
+    ],
+    "encounterValue": 12,
+    "organization": "elite",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "basilisk-tonguesnapper",
+    "name": "Basilisk Tonguesnapper",
+    "types": [
+      "Basilisk",
+      "Beast"
+    ],
+    "encounterValue": 12,
+    "organization": "elite",
+    "role": "hexer",
+    "level": 1
+  },
+  {
+    "id": "bredbeddle",
+    "name": "Bredbeddle",
+    "types": [
+      "Bredbeddle",
+      "Giant"
+    ],
+    "encounterValue": 60,
+    "organization": "solo",
+    "role": "solo",
+    "level": 3
+  },
+  {
+    "id": "bugbear-channeler",
+    "name": "Bugbear Channeler",
+    "types": [
+      "Bugbear",
+      "Fey",
+      "Goblin",
+      "Humanoid"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "controller",
+    "level": 2
+  },
+  {
+    "id": "bugbear-commander",
+    "name": "Bugbear Commander",
+    "types": [
+      "Bugbear",
+      "Fey",
+      "Goblin",
+      "Humanoid"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "support",
+    "level": 2
+  },
+  {
+    "id": "bugbear-roughneck",
+    "name": "Bugbear Roughneck",
+    "types": [
+      "Bugbear",
+      "Fey",
+      "Goblin",
+      "Humanoid"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "brute",
+    "level": 2
+  },
+  {
+    "id": "bugbear-sneak",
+    "name": "Bugbear Sneak",
+    "types": [
+      "Bugbear",
+      "Fey",
+      "Goblin",
+      "Humanoid"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "ambusher",
+    "level": 2
+  },
+  {
+    "id": "bugbear-knightmare",
+    "name": "Bugbear Knightmare",
+    "types": [
+      "Bugbear",
+      "Fey",
+      "Goblin",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 10,
+    "organization": "minion",
+    "role": "hexer",
+    "level": 8
+  },
+  {
+    "id": "bugbear-mob",
+    "name": "Bugbear Mob",
+    "types": [
+      "Bugbear",
+      "Fey",
+      "Goblin",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 7,
+    "organization": "minion",
+    "role": "brute",
+    "level": 5
+  },
+  {
+    "id": "bugbear-snare",
+    "name": "Bugbear Snare",
+    "types": [
+      "Bugbear",
+      "Fey",
+      "Goblin",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 7,
+    "organization": "minion",
+    "role": "ambusher",
+    "level": 5
+  },
+  {
+    "id": "chimera",
+    "name": "Chimera",
+    "types": [
+      "Beast",
+      "Chimera"
+    ],
+    "encounterValue": 60,
+    "organization": "solo",
+    "role": "solo",
+    "level": 3
+  },
+  {
+    "id": "ensnarer",
+    "name": "Ensnarer",
+    "types": [
+      "Abyssal",
+      "Demon  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "pitling",
+    "name": "Pitling",
+    "types": [
+      "Abyssal",
+      "Demon  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "frenzied",
+    "name": "Frenzied",
+    "types": [
+      "Abyssal",
+      "Demon  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "bendrak",
+    "name": "Bendrak",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 4,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 2
+  },
+  {
+    "id": "muceron",
+    "name": "Muceron",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 5,
+    "organization": "horde",
+    "role": "brute",
+    "level": 3
+  },
+  {
+    "id": "remasch",
+    "name": "Remasch",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 4,
+    "organization": "horde",
+    "role": "ambusher",
+    "level": 2
+  },
+  {
+    "id": "ruinant",
+    "name": "Ruinant",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "torlas",
+    "name": "Torlas",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "controller",
+    "level": 1
+  },
+  {
+    "id": "chorogaunt",
+    "name": "Chorogaunt",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 20,
+    "organization": "leader",
+    "role": "leader",
+    "level": 3
+  },
+  {
+    "id": "grulqin",
+    "name": "Grulqin",
+    "types": [
+      "Abyssal",
+      "Demon  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "brute",
+    "level": 4
+  },
+  {
+    "id": "orliq",
+    "name": "Orliq",
+    "types": [
+      "Abyssal",
+      "Demon  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 4
+  },
+  {
+    "id": "wobalas",
+    "name": "Wobalas",
+    "types": [
+      "Abyssal",
+      "Demon  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 4
+  },
+  {
+    "id": "bale-eye",
+    "name": "Bale Eye",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 7,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 5
+  },
+  {
+    "id": "fangling",
+    "name": "Fangling",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 6,
+    "organization": "horde",
+    "role": "harrier",
+    "level": 4
+  },
+  {
+    "id": "fiktin",
+    "name": "Fiktin",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 7,
+    "organization": "horde",
+    "role": "ambusher",
+    "level": 5
+  },
+  {
+    "id": "gunge",
+    "name": "Gunge",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 6,
+    "organization": "horde",
+    "role": "controller",
+    "level": 4
+  },
+  {
+    "id": "tormenauk",
+    "name": "Tormenauk",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 8,
+    "organization": "horde",
+    "role": "brute",
+    "level": 6
+  },
+  {
+    "id": "lumbering-egress",
+    "name": "Lumbering Egress",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 32,
+    "organization": "leader",
+    "role": "leader",
+    "level": 6
+  },
+  {
+    "id": "soulraker-scout",
+    "name": "Soulraker Scout",
+    "types": [
+      "Abyssal",
+      "Demon",
+      "Soulraker  for four minions"
+    ],
+    "encounterValue": 9,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 7
+  },
+  {
+    "id": "soulraker-soldier",
+    "name": "Soulraker Soldier",
+    "types": [
+      "Abyssal",
+      "Demon",
+      "Soulraker  for four minions"
+    ],
+    "encounterValue": 9,
+    "organization": "minion",
+    "role": "brute",
+    "level": 7
+  },
+  {
+    "id": "soulraker-stinger",
+    "name": "Soulraker Stinger",
+    "types": [
+      "Abyssal",
+      "Demon",
+      "Soulraker  for four minions"
+    ],
+    "encounterValue": 9,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 7
+  },
+  {
+    "id": "blight-phage",
+    "name": "Blight Phage",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 9,
+    "organization": "horde",
+    "role": "controller",
+    "level": 7
+  },
+  {
+    "id": "chimeron",
+    "name": "Chimeron",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 11,
+    "organization": "horde",
+    "role": "brute",
+    "level": 9
+  },
+  {
+    "id": "styrich",
+    "name": "Styrich",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 10,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 8
+  },
+  {
+    "id": "soulraker-handmaiden",
+    "name": "Soulraker Handmaiden",
+    "types": [
+      "Abyssal",
+      "Demon",
+      "Soulraker"
+    ],
+    "encounterValue": 10,
+    "organization": "horde",
+    "role": "ambusher",
+    "level": 8
+  },
+  {
+    "id": "soulraker-praetorian",
+    "name": "Soulraker Praetorian",
+    "types": [
+      "Abyssal",
+      "Demon",
+      "Soulraker"
+    ],
+    "encounterValue": 9,
+    "organization": "horde",
+    "role": "harrier",
+    "level": 7
+  },
+  {
+    "id": "soulraker-hivequeen",
+    "name": "Soulraker Hivequeen",
+    "types": [
+      "Abyssal",
+      "Demon",
+      "Soulraker"
+    ],
+    "encounterValue": 44,
+    "organization": "leader",
+    "role": "leader",
+    "level": 9
+  },
+  {
+    "id": "optacus",
+    "name": "Optacus",
+    "types": [
+      "Abyssal",
+      "Demon  for four minions"
+    ],
+    "encounterValue": 12,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 10
+  },
+  {
+    "id": "tyburaki",
+    "name": "Tyburaki",
+    "types": [
+      "Abyssal",
+      "Demon  for four minions"
+    ],
+    "encounterValue": 12,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 10
+  },
+  {
+    "id": "unguloid",
+    "name": "Unguloid",
+    "types": [
+      "Abyssal",
+      "Demon  for four minions"
+    ],
+    "encounterValue": 12,
+    "organization": "minion",
+    "role": "brute",
+    "level": 10
+  },
+  {
+    "id": "izyak",
+    "name": "Izyak",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 12,
+    "organization": "horde",
+    "role": "controller",
+    "level": 10
+  },
+  {
+    "id": "vicisitator",
+    "name": "Vicisitator",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 12,
+    "organization": "horde",
+    "role": "harrier",
+    "level": 10
+  },
+  {
+    "id": "aurumvas",
+    "name": "Aurumvas",
+    "types": [
+      "Abyssal",
+      "Demon"
+    ],
+    "encounterValue": 48,
+    "organization": "leader",
+    "role": "leader",
+    "level": 10
+  },
+  {
+    "id": "devil-clerk",
+    "name": "Devil Clerk",
+    "types": [
+      "Devil",
+      "Infernal  for four minions"
+    ],
+    "encounterValue": 7,
+    "organization": "minion",
+    "role": "brute",
+    "level": 5
+  },
+  {
+    "id": "devil-scrivener",
+    "name": "Devil Scrivener",
+    "types": [
+      "Devil",
+      "Infernal  for four minions"
+    ],
+    "encounterValue": 7,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 5
+  },
+  {
+    "id": "devil-notary",
+    "name": "Devil Notary",
+    "types": [
+      "Devil",
+      "Infernal  for four minions"
+    ],
+    "encounterValue": 7,
+    "organization": "minion",
+    "role": "hexer",
+    "level": 5
+  },
+  {
+    "id": "devil-adjudicator",
+    "name": "Devil Adjudicator",
+    "types": [
+      "Devil",
+      "Infernal"
+    ],
+    "encounterValue": 32,
+    "organization": "elite",
+    "role": "controller",
+    "level": 6
+  },
+  {
+    "id": "devil-jurist",
+    "name": "Devil Jurist",
+    "types": [
+      "Devil",
+      "Infernal"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "artillery",
+    "level": 5
+  },
+  {
+    "id": "devil-legate",
+    "name": "Devil Legate",
+    "types": [
+      "Devil",
+      "Infernal"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "defender",
+    "level": 5
+  },
+  {
+    "id": "devil-magistrate",
+    "name": "Devil Magistrate",
+    "types": [
+      "Devil",
+      "Infernal"
+    ],
+    "encounterValue": 32,
+    "organization": "elite",
+    "role": "harrier",
+    "level": 6
+  },
+  {
+    "id": "devil-high-judge",
+    "name": "Devil High Judge",
+    "types": [
+      "Devil",
+      "Infernal"
+    ],
+    "encounterValue": 32,
+    "organization": "leader",
+    "role": "leader",
+    "level": 6
+  },
+  {
+    "id": "aeolyxria-the-uncanny",
+    "name": "Aeolyxria the Uncanny",
+    "types": [
+      "Draconian",
+      "Dragon",
+      "Humanoid"
+    ],
+    "encounterValue": 32,
+    "organization": "elite",
+    "role": "controller",
+    "level": 6
+  },
+  {
+    "id": "locratix-the-morningstar",
+    "name": "Locratix the Morningstar",
+    "types": [
+      "Draconian",
+      "Dragon",
+      "Humanoid"
+    ],
+    "encounterValue": 32,
+    "organization": "elite",
+    "role": "harrier",
+    "level": 6
+  },
+  {
+    "id": "lydixavus-the-deadeye",
+    "name": "Lydixavus the Deadeye",
+    "types": [
+      "Draconian",
+      "Dragon",
+      "Humanoid"
+    ],
+    "encounterValue": 32,
+    "organization": "elite",
+    "role": "artillery",
+    "level": 6
+  },
+  {
+    "id": "myxovidan-the-sintaker",
+    "name": "Myxovidan the Sintaker",
+    "types": [
+      "Draconian",
+      "Dragon",
+      "Humanoid"
+    ],
+    "encounterValue": 32,
+    "organization": "elite",
+    "role": "hexer",
+    "level": 6
+  },
+  {
+    "id": "phrrygalax-the-subduer",
+    "name": "Phrrygalax the Subduer",
+    "types": [
+      "Draconian",
+      "Dragon",
+      "Humanoid"
+    ],
+    "encounterValue": 32,
+    "organization": "elite",
+    "role": "brute",
+    "level": 6
+  },
+  {
+    "id": "dorzinuuth-the-base",
+    "name": "Dorzinuuth the Base",
+    "types": [
+      "Draconian",
+      "Dragon",
+      "Humanoid"
+    ],
+    "encounterValue": 32,
+    "organization": "leader",
+    "role": "leader",
+    "level": 6
+  },
+  {
+    "id": "thorn-dragon",
+    "name": "Thorn Dragon",
+    "types": [
+      "Dragon",
+      "Elemental"
+    ],
+    "encounterValue": 48,
+    "organization": "solo",
+    "role": "solo",
+    "level": 2
+  },
+  {
+    "id": "gloom-dragon",
+    "name": "Gloom Dragon",
+    "types": [
+      "Dragon",
+      "Elemental"
+    ],
+    "encounterValue": 72,
+    "organization": "solo",
+    "role": "solo",
+    "level": 4
+  },
+  {
+    "id": "crucible-dragon",
+    "name": "Crucible Dragon",
+    "types": [
+      "Dragon",
+      "Elemental"
+    ],
+    "encounterValue": 96,
+    "organization": "solo",
+    "role": "solo",
+    "level": 6
+  },
+  {
+    "id": "omen-dragon",
+    "name": "Omen Dragon",
+    "types": [
+      "Dragon",
+      "Elemental"
+    ],
+    "encounterValue": 120,
+    "organization": "solo",
+    "role": "solo",
+    "level": 8
+  },
+  {
+    "id": "meteor-dragon",
+    "name": "Meteor Dragon",
+    "types": [
+      "Dragon",
+      "Elemental"
+    ],
+    "encounterValue": 144,
+    "organization": "solo",
+    "role": "solo",
+    "level": 10
+  },
+  {
+    "id": "dwarf-axethrower",
+    "name": "Dwarf Axethrower",
+    "types": [
+      "Dwarf",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "defender",
+    "level": 1
+  },
+  {
+    "id": "dwarf-catchpole",
+    "name": "Dwarf Catchpole",
+    "types": [
+      "Dwarf",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "dwarf-driver",
+    "name": "Dwarf Driver",
+    "types": [
+      "Dwarf",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "dwarf-hunter",
+    "name": "Dwarf Hunter",
+    "types": [
+      "Dwarf",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "dwarf-gunner",
+    "name": "Dwarf Gunner",
+    "types": [
+      "Dwarf",
+      "Humanoid"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "dwarf-launcher",
+    "name": "Dwarf Launcher",
+    "types": [
+      "Dwarf",
+      "Humanoid"
+    ],
+    "encounterValue": 8,
+    "organization": "platoon",
+    "role": "hexer",
+    "level": 2
+  },
+  {
+    "id": "dwarf-reel-winch",
+    "name": "Dwarf Reel Winch",
+    "types": [
+      "Dwarf",
+      "Humanoid"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "dwarf-shieldwall",
+    "name": "Dwarf Shieldwall",
+    "types": [
+      "Dwarf",
+      "Humanoid"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "defender",
+    "level": 3
+  },
+  {
+    "id": "dwarf-stone-whisperer",
+    "name": "Dwarf Stone Whisperer",
+    "types": [
+      "Dwarf",
+      "Humanoid"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "controller",
+    "level": 3
+  },
+  {
+    "id": "dwarf-trapper",
+    "name": "Dwarf Trapper",
+    "types": [
+      "Dwarf",
+      "Humanoid"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "dwarf-warden",
+    "name": "Dwarf Warden",
+    "types": [
+      "Dwarf",
+      "Humanoid"
+    ],
+    "encounterValue": 8,
+    "organization": "platoon",
+    "role": "brute",
+    "level": 2
+  },
+  {
+    "id": "dwarf-marauder-lord",
+    "name": "Dwarf Marauder Lord",
+    "types": [
+      "Dwarf",
+      "Humanoid"
+    ],
+    "encounterValue": 20,
+    "organization": "leader",
+    "role": "leader",
+    "level": 3
+  },
+  {
+    "id": "servitor-war-walker",
+    "name": "Servitor War Walker",
+    "types": [
+      "Construct",
+      "Dwarf"
+    ],
+    "encounterValue": 12,
+    "organization": "elite",
+    "role": "mount",
+    "level": 1
+  },
+  {
+    "id": "crux-of-fire",
+    "name": "Crux of Fire",
+    "types": [
+      "Elemental"
+    ],
+    "encounterValue": 20,
+    "organization": "elite",
+    "role": "artillery",
+    "level": 3
+  },
+  {
+    "id": "essence-of-storms",
+    "name": "Essence of Storms",
+    "types": [
+      "Elemental"
+    ],
+    "encounterValue": 20,
+    "organization": "elite",
+    "role": "harrier",
+    "level": 3
+  },
+  {
+    "id": "essence-of-tides",
+    "name": "Essence of Tides",
+    "types": [
+      "Elemental"
+    ],
+    "encounterValue": 20,
+    "organization": "elite",
+    "role": "controller",
+    "level": 3
+  },
+  {
+    "id": "field-of-growth",
+    "name": "Field of Growth",
+    "types": [
+      "Elemental"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "controller",
+    "level": 5
+  },
+  {
+    "id": "force-of-earth",
+    "name": "Force of Earth",
+    "types": [
+      "Elemental"
+    ],
+    "encounterValue": 20,
+    "organization": "elite",
+    "role": "brute",
+    "level": 3
+  },
+  {
+    "id": "elemental-mote",
+    "name": "Elemental Mote",
+    "types": [
+      "Elemental",
+      "High Elf",
+      "Soulless  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "hexer",
+    "level": 1
+  },
+  {
+    "id": "high-elf-quiver",
+    "name": "High Elf Quiver",
+    "types": [
+      "Fey",
+      "High Elf",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "high-elf-dawn-mage",
+    "name": "High Elf Dawn Mage",
+    "types": [
+      "Fey",
+      "High Elf",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "controller",
+    "level": 1
+  },
+  {
+    "id": "soot-crow",
+    "name": "Soot Crow",
+    "types": [
+      "Elemental",
+      "High Elf  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "brambleguard",
+    "name": "Brambleguard",
+    "types": [
+      "Elemental",
+      "High Elf"
+    ],
+    "encounterValue": 8,
+    "organization": "platoon",
+    "role": "defender",
+    "level": 2
+  },
+  {
+    "id": "high-elf-deathtouch",
+    "name": "High Elf Deathtouch",
+    "types": [
+      "Fey",
+      "High Elf",
+      "Humanoid"
+    ],
+    "encounterValue": 8,
+    "organization": "platoon",
+    "role": "artillery",
+    "level": 2
+  },
+  {
+    "id": "high-elf-bloodletter",
+    "name": "High Elf Bloodletter",
+    "types": [
+      "Fey",
+      "High Elf",
+      "Humanoid"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "high-elf-orbweaver",
+    "name": "High Elf Orbweaver",
+    "types": [
+      "Fey",
+      "High Elf",
+      "Humanoid"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "hexer",
+    "level": 3
+  },
+  {
+    "id": "high-elf-palinode",
+    "name": "High Elf Palinode",
+    "types": [
+      "Fey",
+      "High Elf",
+      "Humanoid"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "high-elf-wyrd",
+    "name": "High Elf Wyrd",
+    "types": [
+      "Fey",
+      "High Elf",
+      "Humanoid"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "controller",
+    "level": 3
+  },
+  {
+    "id": "high-elf-zephyr",
+    "name": "High Elf Zephyr",
+    "types": [
+      "Fey",
+      "High Elf",
+      "Humanoid"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "high-elf-ordinator",
+    "name": "High Elf Ordinator",
+    "types": [
+      "Fey",
+      "High Elf",
+      "Humanoid"
+    ],
+    "encounterValue": 20,
+    "organization": "leader",
+    "role": "leader",
+    "level": 3
+  },
+  {
+    "id": "ceramic-horse",
+    "name": "Ceramic Horse",
+    "types": [
+      "Elemental",
+      "High Elf"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "mount",
+    "level": 1
+  },
+  {
+    "id": "shadow-elf-cloak",
+    "name": "Shadow Elf Cloak",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 4
+  },
+  {
+    "id": "shadow-elf-sniper",
+    "name": "Shadow Elf Sniper",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 4
+  },
+  {
+    "id": "shadow-elf-dusk-mage",
+    "name": "Shadow Elf Dusk Mage",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "hexer",
+    "level": 4
+  },
+  {
+    "id": "shadow-elf-nightstrike",
+    "name": "Shadow Elf Nightstrike",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "ambusher",
+    "level": 4
+  },
+  {
+    "id": "shadow-elf-assassin",
+    "name": "Shadow Elf Assassin",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf"
+    ],
+    "encounterValue": 16,
+    "organization": "platoon",
+    "role": "artillery",
+    "level": 6
+  },
+  {
+    "id": "shadow-elf-knightfell",
+    "name": "Shadow Elf Knightfell",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf"
+    ],
+    "encounterValue": 12,
+    "organization": "platoon",
+    "role": "defender",
+    "level": 4
+  },
+  {
+    "id": "shadow-elf-duskcaller",
+    "name": "Shadow Elf Duskcaller",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf"
+    ],
+    "encounterValue": 14,
+    "organization": "platoon",
+    "role": "controller",
+    "level": 5
+  },
+  {
+    "id": "shadow-elf-luminator",
+    "name": "Shadow Elf Luminator",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf"
+    ],
+    "encounterValue": 12,
+    "organization": "platoon",
+    "role": "support",
+    "level": 4
+  },
+  {
+    "id": "shadow-elf-moondancer",
+    "name": "Shadow Elf Moondancer",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf"
+    ],
+    "encounterValue": 14,
+    "organization": "platoon",
+    "role": "harrier",
+    "level": 5
+  },
+  {
+    "id": "shadow-elf-mournblade",
+    "name": "Shadow Elf Mournblade",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf"
+    ],
+    "encounterValue": 16,
+    "organization": "platoon",
+    "role": "ambusher",
+    "level": 6
+  },
+  {
+    "id": "shadow-elf-noctis-mage",
+    "name": "Shadow Elf Noctis Mage",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf"
+    ],
+    "encounterValue": 16,
+    "organization": "platoon",
+    "role": "hexer",
+    "level": 6
+  },
+  {
+    "id": "shadow-elf-panther",
+    "name": "Shadow Elf Panther",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf"
+    ],
+    "encounterValue": 12,
+    "organization": "platoon",
+    "role": "brute",
+    "level": 4
+  },
+  {
+    "id": "shadow-elf-eclipse",
+    "name": "Shadow Elf Eclipse",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Shadow Elf"
+    ],
+    "encounterValue": 32,
+    "organization": "leader",
+    "role": "leader",
+    "level": 6
+  },
+  {
+    "id": "brush-stalker",
+    "name": "Brush Stalker",
+    "types": [
+      "Animal",
+      "Fey",
+      "Shadow Elf"
+    ],
+    "encounterValue": 12,
+    "organization": "platoon",
+    "role": "mount",
+    "level": 4
+  },
+  {
+    "id": "wode-elf-lookout",
+    "name": "Wode Elf Lookout",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Wode Elf  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "wode-elf-scout",
+    "name": "Wode Elf Scout",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Wode Elf  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "wode-elf-runner",
+    "name": "Wode Elf Runner",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Wode Elf  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "wode-elf-yeoman",
+    "name": "Wode Elf Yeoman",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Wode Elf  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "wode-elf-chirurgeon",
+    "name": "Wode Elf Chirurgeon",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Wode Elf"
+    ],
+    "encounterValue": 8,
+    "organization": "platoon",
+    "role": "harrier",
+    "level": 2
+  },
+  {
+    "id": "wode-elf-druid",
+    "name": "Wode Elf Druid",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Wode Elf"
+    ],
+    "encounterValue": 8,
+    "organization": "platoon",
+    "role": "controller",
+    "level": 2
+  },
+  {
+    "id": "wode-elf-green-seer",
+    "name": "Wode Elf Green Seer",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Wode Elf"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "hexer",
+    "level": 1
+  },
+  {
+    "id": "wode-elf-greenskeeper",
+    "name": "Wode Elf Greenskeeper",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Wode Elf"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "defender",
+    "level": 1
+  },
+  {
+    "id": "wode-elf-guerrilla",
+    "name": "Wode Elf Guerrilla",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Wode Elf"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "ambusher",
+    "level": 3
+  },
+  {
+    "id": "wode-elf-gweiadur",
+    "name": "Wode Elf Gweiadur",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Wode Elf"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "artillery",
+    "level": 3
+  },
+  {
+    "id": "wode-elf-sentry",
+    "name": "Wode Elf Sentry",
+    "types": [
+      "Fey",
+      "Humanoid",
+      "Wode Elf"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "wode-elf-warleader",
+    "name": "Wode Elf Warleader",
+    "types": [
+      "Fey",
+      "Humanoid. Wode Elf"
+    ],
+    "encounterValue": 20,
+    "organization": "leader",
+    "role": "leader",
+    "level": 3
+  },
+  {
+    "id": "wodenelg",
+    "name": "Wodenelg",
+    "types": [
+      "Plant",
+      "Wode Elf"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "mount",
+    "level": 1
+  },
+  {
+    "id": "fossil-cryptic",
+    "name": "Fossil Cryptic",
+    "types": [
+      "Elemental"
+    ],
+    "encounterValue": 48,
+    "organization": "solo",
+    "role": "solo",
+    "level": 2
+  },
+  {
+    "id": "fire-giant-fireballer",
+    "name": "Fire Giant Fireballer",
+    "types": [
+      "Fire Giant",
+      "Giant  for four minions"
+    ],
+    "encounterValue": 11,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 9
+  },
+  {
+    "id": "hill-giant-mosstooth",
+    "name": "Hill Giant Mosstooth",
+    "types": [
+      "Giant",
+      "Hill Giant for four minions"
+    ],
+    "encounterValue": 9,
+    "organization": "minion",
+    "role": "brute",
+    "level": 7
+  },
+  {
+    "id": "frost-giant-snowblaster",
+    "name": "Frost Giant Snowblaster",
+    "types": [
+      "Frost Giant",
+      "Giant  for four minions"
+    ],
+    "encounterValue": 10,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 8
+  },
+  {
+    "id": "sand-stone-giant",
+    "name": "Sand Stone Giant",
+    "types": [
+      "Giant",
+      "Stone Giant  for four minions"
+    ],
+    "encounterValue": 10,
+    "organization": "minion",
+    "role": "controller",
+    "level": 8
+  },
+  {
+    "id": "basalt-stone-giant",
+    "name": "Basalt Stone Giant",
+    "types": [
+      "Giant",
+      "Stone Giant"
+    ],
+    "encounterValue": 40,
+    "organization": "elite",
+    "role": "controller",
+    "level": 8
+  },
+  {
+    "id": "fire-giant-lightbearer",
+    "name": "Fire Giant Lightbearer",
+    "types": [
+      "Fire Giant",
+      "Giant"
+    ],
+    "encounterValue": 44,
+    "organization": "elite",
+    "role": "support",
+    "level": 9
+  },
+  {
+    "id": "fire-giant-red-fist",
+    "name": "Fire Giant Red Fist",
+    "types": [
+      "Fire Giant",
+      "Giant"
+    ],
+    "encounterValue": 44,
+    "organization": "elite",
+    "role": "brute",
+    "level": 9
+  },
+  {
+    "id": "frost-giant-storm-hurler",
+    "name": "Frost Giant Storm Hurler",
+    "types": [
+      "Frost Giant",
+      "Giant"
+    ],
+    "encounterValue": 40,
+    "organization": "elite",
+    "role": "artillery",
+    "level": 8
+  },
+  {
+    "id": "frost-giant-wind-sprinter",
+    "name": "Frost Giant Wind Sprinter",
+    "types": [
+      "Frost Giant",
+      "Giant"
+    ],
+    "encounterValue": 40,
+    "organization": "elite",
+    "role": "harrier",
+    "level": 8
+  },
+  {
+    "id": "granite-stone-giant",
+    "name": "Granite Stone Giant",
+    "types": [
+      "Giant",
+      "Stone Giant"
+    ],
+    "encounterValue": 40,
+    "organization": "elite",
+    "role": "defender",
+    "level": 8
+  },
+  {
+    "id": "hill-giant-clobberer",
+    "name": "Hill Giant Clobberer",
+    "types": [
+      "Giant",
+      "Hill Giant"
+    ],
+    "encounterValue": 36,
+    "organization": "elite",
+    "role": "brute",
+    "level": 7
+  },
+  {
+    "id": "marble-stone-giant",
+    "name": "Marble Stone Giant",
+    "types": [
+      "Giant",
+      "Stone Giant"
+    ],
+    "encounterValue": 40,
+    "organization": "elite",
+    "role": "hexer",
+    "level": 8
+  },
+  {
+    "id": "fire-giant-chief",
+    "name": "Fire Giant Chief",
+    "types": [
+      "Fire Giant",
+      "Giant"
+    ],
+    "encounterValue": 44,
+    "organization": "leader",
+    "role": "leader",
+    "level": 9
+  },
+  {
+    "id": "abyssal-hyena",
+    "name": "Abyssal Hyena",
+    "types": [
+      "Abyssal",
+      "Animal",
+      "Gnoll  for four minions"
+    ],
+    "encounterValue": 4,
+    "organization": "minion",
+    "role": "brute",
+    "level": 2
+  },
+  {
+    "id": "gnoll-mage-mauler",
+    "name": "Gnoll Mage Mauler",
+    "types": [
+      "Abyssal",
+      "Gnoll  for four minions"
+    ],
+    "encounterValue": 4,
+    "organization": "minion",
+    "role": "hexer",
+    "level": 2
+  },
+  {
+    "id": "gnoll-chainflail",
+    "name": "Gnoll Chainflail",
+    "types": [
+      "Abyssal",
+      "Gnoll  for four minions"
+    ],
+    "encounterValue": 4,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 2
+  },
+  {
+    "id": "gnoll-wildling",
+    "name": "Gnoll Wildling",
+    "types": [
+      "Abyssal",
+      "Gnoll  for four minions"
+    ],
+    "encounterValue": 4,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 2
+  },
+  {
+    "id": "gnoll-abyssal-archer",
+    "name": "Gnoll Abyssal Archer",
+    "types": [
+      "Abyssal",
+      "Gnoll"
+    ],
+    "encounterValue": 4,
+    "organization": "horde",
+    "role": "artillery",
+    "level": 2
+  },
+  {
+    "id": "gnoll-abyssal-summoner",
+    "name": "Gnoll Abyssal Summoner",
+    "types": [
+      "Abyssal",
+      "Gnoll"
+    ],
+    "encounterValue": 4,
+    "organization": "horde",
+    "role": "support",
+    "level": 2
+  },
+  {
+    "id": "gnoll-bonesplitter",
+    "name": "Gnoll Bonesplitter",
+    "types": [
+      "Abyssal",
+      "Gnoll"
+    ],
+    "encounterValue": 4,
+    "organization": "horde",
+    "role": "brute",
+    "level": 2
+  },
+  {
+    "id": "gnoll-cackler",
+    "name": "Gnoll Cackler",
+    "types": [
+      "Abyssal",
+      "Gnoll"
+    ],
+    "encounterValue": 4,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 2
+  },
+  {
+    "id": "gnoll-marauder",
+    "name": "Gnoll Marauder",
+    "types": [
+      "Abyssal",
+      "Gnoll"
+    ],
+    "encounterValue": 4,
+    "organization": "horde",
+    "role": "harrier",
+    "level": 2
+  },
+  {
+    "id": "tusker-demon",
+    "name": "Tusker Demon",
+    "types": [
+      "Abyssal",
+      "Demon",
+      "Gnoll"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "brute",
+    "level": 2
+  },
+  {
+    "id": "gnoll-carnage",
+    "name": "Gnoll Carnage",
+    "types": [
+      "Abyssal",
+      "Gnoll"
+    ],
+    "encounterValue": 16,
+    "organization": "leader",
+    "role": "leader",
+    "level": 2
+  },
+  {
+    "id": "goblin-runner",
+    "name": "Goblin Runner",
+    "types": [
+      "Goblin",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "skitterling",
+    "name": "Skitterling",
+    "types": [
+      "Animal",
+      "Goblin  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "hexer",
+    "level": 1
+  },
+  {
+    "id": "goblin-sniper",
+    "name": "Goblin Sniper",
+    "types": [
+      "Goblin",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "goblin-spinecleaver",
+    "name": "Goblin Spinecleaver",
+    "types": [
+      "Goblin",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "goblin-assassin",
+    "name": "Goblin Assassin",
+    "types": [
+      "Goblin",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "goblin-cursespitter",
+    "name": "Goblin Cursespitter",
+    "types": [
+      "Goblin",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 1
+  },
+  {
+    "id": "goblin-stinker",
+    "name": "Goblin Stinker",
+    "types": [
+      "Goblin",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "controller",
+    "level": 1
+  },
+  {
+    "id": "goblin-underboss",
+    "name": "Goblin Underboss",
+    "types": [
+      "Goblin",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "goblin-warrior",
+    "name": "Goblin Warrior",
+    "types": [
+      "Goblin",
+      "Humanoid"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "goblin-monarch",
+    "name": "Goblin Monarch",
+    "types": [
+      "Goblin",
+      "Humanoid"
+    ],
+    "encounterValue": 12,
+    "organization": "leader",
+    "role": "leader",
+    "level": 1
+  },
+  {
+    "id": "war-spider",
+    "name": "War Spider",
+    "types": [
+      "Animal",
+      "Goblin"
+    ],
+    "encounterValue": 12,
+    "organization": "elite",
+    "role": "mount",
+    "level": 1
+  },
+  {
+    "id": "worg",
+    "name": "Worg",
+    "types": [
+      "Animal",
+      "Goblin"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "mount",
+    "level": 1
+  },
+  {
+    "id": "griffon",
+    "name": "Griffon",
+    "types": [
+      "Beast",
+      "Griffon"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "mount",
+    "level": 2
+  },
+  {
+    "id": "striped-condor-griffon",
+    "name": "Striped Condor Griffon",
+    "types": [
+      "Beast",
+      "Griffon"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "brute",
+    "level": 2
+  },
+  {
+    "id": "wode-hag",
+    "name": "Wode Hag",
+    "types": [
+      "Fey",
+      "Hag"
+    ],
+    "encounterValue": 60,
+    "organization": "solo",
+    "role": "solo",
+    "level": 3
+  },
+  {
+    "id": "hobgoblin-brandbearer",
+    "name": "Hobgoblin Brandbearer",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "hexer",
+    "level": 4
+  },
+  {
+    "id": "hobgoblin-recruit",
+    "name": "Hobgoblin Recruit",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "brute",
+    "level": 4
+  },
+  {
+    "id": "hobgoblin-lancer",
+    "name": "Hobgoblin Lancer",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 4
+  },
+  {
+    "id": "grilp",
+    "name": "Grilp",
+    "types": [
+      "Devil",
+      "Hobgoblin",
+      "Infernal  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "ambusher",
+    "level": 4
+  },
+  {
+    "id": "hobgoblin-burning-witch",
+    "name": "Hobgoblin Burning Witch",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal"
+    ],
+    "encounterValue": 12,
+    "organization": "platoon",
+    "role": "controller",
+    "level": 4
+  },
+  {
+    "id": "hobgoblin-death-captain",
+    "name": "Hobgoblin Death Captain",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal"
+    ],
+    "encounterValue": 12,
+    "organization": "platoon",
+    "role": "support",
+    "level": 4
+  },
+  {
+    "id": "hobgoblin-firerunner",
+    "name": "Hobgoblin Firerunner",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal"
+    ],
+    "encounterValue": 14,
+    "organization": "platoon",
+    "role": "harrier",
+    "level": 5
+  },
+  {
+    "id": "hobgoblin-grandguard",
+    "name": "Hobgoblin Grandguard",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal"
+    ],
+    "encounterValue": 16,
+    "organization": "platoon",
+    "role": "defender",
+    "level": 6
+  },
+  {
+    "id": "hobgoblin-hell-trooper",
+    "name": "Hobgoblin Hell Trooper",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal"
+    ],
+    "encounterValue": 12,
+    "organization": "platoon",
+    "role": "brute",
+    "level": 4
+  },
+  {
+    "id": "hobgoblin-incendiarist",
+    "name": "Hobgoblin Incendiarist",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal"
+    ],
+    "encounterValue": 14,
+    "organization": "platoon",
+    "role": "artillery",
+    "level": 5
+  },
+  {
+    "id": "hobgoblin-redglare",
+    "name": "Hobgoblin Redglare",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal"
+    ],
+    "encounterValue": 16,
+    "organization": "platoon",
+    "role": "hexer",
+    "level": 6
+  },
+  {
+    "id": "hobgoblin-smokebinder",
+    "name": "Hobgoblin Smokebinder",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal"
+    ],
+    "encounterValue": 14,
+    "organization": "platoon",
+    "role": "ambusher",
+    "level": 5
+  },
+  {
+    "id": "hobgoblin-war-mage",
+    "name": "Hobgoblin War Mage",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "controller",
+    "level": 5
+  },
+  {
+    "id": "hobgoblin-bloodlord",
+    "name": "Hobgoblin Bloodlord",
+    "types": [
+      "Goblin",
+      "Hobgoblin",
+      "Humanoid",
+      "Infernal"
+    ],
+    "encounterValue": 32,
+    "organization": "leader",
+    "role": "leader",
+    "level": 6
+  },
+  {
+    "id": "slaughter-demon",
+    "name": "Slaughter Demon",
+    "types": [
+      "Abyssal",
+      "Demon",
+      "Hobgoblin"
+    ],
+    "encounterValue": 24,
+    "organization": "elite",
+    "role": "brute",
+    "level": 4
+  },
+  {
+    "id": "human-apprentice-mage",
+    "name": "Human Apprentice Mage",
+    "types": [
+      "Human",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 4,
+    "organization": "minion",
+    "role": "controller",
+    "level": 2
+  },
+  {
+    "id": "human-guard",
+    "name": "Human Guard",
+    "types": [
+      "Human",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "human-archer",
+    "name": "Human Archer",
+    "types": [
+      "Human",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "human-raider",
+    "name": "Human Raider",
+    "types": [
+      "Human",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "human-death-acolyte",
+    "name": "Human Death Acolyte",
+    "types": [
+      "Human",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "hexer",
+    "level": 1
+  },
+  {
+    "id": "human-rogue",
+    "name": "Human Rogue",
+    "types": [
+      "Human",
+      "Humanoid  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "human-brawler",
+    "name": "Human Brawler",
+    "types": [
+      "Human",
+      "Humanoid"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "human-knave",
+    "name": "Human Knave",
+    "types": [
+      "Human",
+      "Humanoid"
+    ],
+    "encounterValue": 8,
+    "organization": "platoon",
+    "role": "defender",
+    "level": 2
+  },
+  {
+    "id": "human-death-cultist",
+    "name": "Human Death Cultist",
+    "types": [
+      "Human",
+      "Humanoid"
+    ],
+    "encounterValue": 8,
+    "organization": "platoon",
+    "role": "support",
+    "level": 2
+  },
+  {
+    "id": "human-scoundrel",
+    "name": "Human Scoundrel",
+    "types": [
+      "Human",
+      "Humanoid"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "human-storm-mage",
+    "name": "Human Storm Mage",
+    "types": [
+      "Human",
+      "Humanoid"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "controller",
+    "level": 3
+  },
+  {
+    "id": "human-trickshot",
+    "name": "Human Trickshot",
+    "types": [
+      "Human",
+      "Humanoid"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "human-blackguard",
+    "name": "Human Blackguard",
+    "types": [
+      "Human",
+      "Humanoid"
+    ],
+    "encounterValue": 12,
+    "organization": "leader",
+    "role": "leader",
+    "level": 1
+  },
+  {
+    "id": "human-bandit-chief",
+    "name": "Human Bandit Chief",
+    "types": [
+      "Human",
+      "Humanoid"
+    ],
+    "encounterValue": 20,
+    "organization": "leader",
+    "role": "leader",
+    "level": 3
+  },
+  {
+    "id": "giant-hawk",
+    "name": "Giant Hawk",
+    "types": [
+      "Animal",
+      "Human"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "mount",
+    "level": 1
+  },
+  {
+    "id": "kingfissure-worm",
+    "name": "Kingfissure Worm",
+    "types": [
+      "Beast",
+      "Worm"
+    ],
+    "encounterValue": 108,
+    "organization": "solo",
+    "role": "solo",
+    "level": 7
+  },
+  {
+    "id": "kobold-princeps",
+    "name": "Kobold Princeps",
+    "types": [
+      "Humanoid",
+      "Kobold  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "kobold-tiro",
+    "name": "Kobold Tiro",
+    "types": [
+      "Humanoid",
+      "Kobold  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "defender",
+    "level": 1
+  },
+  {
+    "id": "kobold-sagittarion",
+    "name": "Kobold Sagittarion",
+    "types": [
+      "Humanoid",
+      "Kobold  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "kobold-veles",
+    "name": "Kobold Veles",
+    "types": [
+      "Humanoid",
+      "Kobold  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "kobold-adeptus",
+    "name": "Kobold Adeptus",
+    "types": [
+      "Humanoid",
+      "Kobold"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "kobold-legionary",
+    "name": "Kobold Legionary",
+    "types": [
+      "Humanoid",
+      "Kobold"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "defender",
+    "level": 1
+  },
+  {
+    "id": "kobold-artifex",
+    "name": "Kobold Artifex",
+    "types": [
+      "Humanoid",
+      "Kobold"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "controller",
+    "level": 1
+  },
+  {
+    "id": "kobold-signifer",
+    "name": "Kobold Signifer",
+    "types": [
+      "Humanoid",
+      "Kobold"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "kobold-venator",
+    "name": "Kobold Venator",
+    "types": [
+      "Humanoid",
+      "Kobold"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "trained-gummy-brick",
+    "name": "Trained Gummy Brick",
+    "types": [
+      "Kobold",
+      "Ooze",
+      "Soulless"
+    ],
+    "encounterValue": 12,
+    "organization": "elite",
+    "role": "hexer",
+    "level": 1
+  },
+  {
+    "id": "kobold-centurion",
+    "name": "Kobold Centurion",
+    "types": [
+      "Kobold",
+      "Humanoid"
+    ],
+    "encounterValue": 12,
+    "organization": "leader",
+    "role": "leader",
+    "level": 1
+  },
+  {
+    "id": "shieldscale-drangolin",
+    "name": "Shieldscale Drangolin",
+    "types": [
+      "Kobold",
+      "Humanoid"
+    ],
+    "encounterValue": 12,
+    "organization": "elite",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "lightbender",
+    "name": "Lightbender",
+    "types": [
+      "Beast",
+      "Lightbender"
+    ],
+    "encounterValue": 20,
+    "organization": "elite",
+    "role": "ambusher",
+    "level": 3
+  },
+  {
+    "id": "lightbender-pouncer",
+    "name": "Lightbender Pouncer",
+    "types": [
+      "Beast",
+      "Lightbender"
+    ],
+    "encounterValue": 20,
+    "organization": "elite",
+    "role": "harrier",
+    "level": 3
+  },
+  {
+    "id": "lizardfolk-grunt",
+    "name": "Lizardfolk Grunt",
+    "types": [
+      "Humanoid",
+      "Lizardfolk  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "lizardfolk-tonguer",
+    "name": "Lizardfolk Tonguer",
+    "types": [
+      "Humanoid",
+      "Lizardfolk  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "lizardfolk-shellguard",
+    "name": "Lizardfolk Shellguard",
+    "types": [
+      "Humanoid",
+      "Lizardfolk  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "defender",
+    "level": 1
+  },
+  {
+    "id": "lizardfolk-bloodeye",
+    "name": "Lizardfolk Bloodeye",
+    "types": [
+      "Humanoid",
+      "Lizardfolk"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "hexer",
+    "level": 1
+  },
+  {
+    "id": "lizardfolk-scaletooth",
+    "name": "Lizardfolk Scaletooth",
+    "types": [
+      "Humanoid",
+      "Lizardfolk"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "lizardfolk-skyterror",
+    "name": "Lizardfolk Skyterror",
+    "types": [
+      "Humanoid",
+      "Lizardfolk"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "lizardfolk-deathrex",
+    "name": "Lizardfolk Deathrex",
+    "types": [
+      "Humanoid",
+      "Lizardfolk"
+    ],
+    "encounterValue": 12,
+    "organization": "leader",
+    "role": "leader",
+    "level": 1
+  },
+  {
+    "id": "manticore",
+    "name": "Manticore",
+    "types": [
+      "Beast",
+      "Manticore"
+    ],
+    "encounterValue": 72,
+    "organization": "solo",
+    "role": "solo",
+    "level": 4
+  },
+  {
+    "id": "medusa",
+    "name": "Medusa",
+    "types": [
+      "Accursed",
+      "Humanoid",
+      "Medusa"
+    ],
+    "encounterValue": 84,
+    "organization": "solo",
+    "role": "solo",
+    "level": 5
+  },
+  {
+    "id": "minotaur",
+    "name": "Minotaur",
+    "types": [
+      "Accursed",
+      "Humanoid",
+      "Minotaur"
+    ],
+    "encounterValue": 20,
+    "organization": "elite",
+    "role": "harrier",
+    "level": 3
+  },
+  {
+    "id": "minotaur-sunderer",
+    "name": "Minotaur Sunderer",
+    "types": [
+      "Accursed",
+      "Humanoid",
+      "Minotaur"
+    ],
+    "encounterValue": 20,
+    "organization": "elite",
+    "role": "brute",
+    "level": 3
+  },
+  {
+    "id": "minotaur-bully",
+    "name": "Minotaur Bully",
+    "types": [
+      "Accursed",
+      "Humanoid",
+      "Minotaur  for four minions"
+    ],
+    "encounterValue": 10,
+    "organization": "minion",
+    "role": "brute",
+    "level": 8
+  },
+  {
+    "id": "minotaur-lackey",
+    "name": "Minotaur Lackey",
+    "types": [
+      "Accursed",
+      "Humanoid",
+      "Minotaur  for four minions"
+    ],
+    "encounterValue": 10,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 8
+  },
+  {
+    "id": "minotaur-stampede",
+    "name": "Minotaur Stampede",
+    "types": [
+      "Accursed",
+      "Humanoid",
+      "Minotaur",
+      "Swarm  for four minions"
+    ],
+    "encounterValue": 12,
+    "organization": "minion",
+    "role": "defender",
+    "level": 10
+  },
+  {
+    "id": "ogre-goon",
+    "name": "Ogre Goon",
+    "types": [
+      "Giant",
+      "Ogre"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "brute",
+    "level": 2
+  },
+  {
+    "id": "ogre-juggernaut",
+    "name": "Ogre Juggernaut",
+    "types": [
+      "Giant",
+      "Ogre"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "harrier",
+    "level": 2
+  },
+  {
+    "id": "cyclops",
+    "name": "Cyclops",
+    "types": [
+      "Giant",
+      "Ogre  for four minions"
+    ],
+    "encounterValue": 12,
+    "organization": "minion",
+    "role": "controller",
+    "level": 10
+  },
+  {
+    "id": "ogre-tantrum",
+    "name": "Ogre Tantrum",
+    "types": [
+      "Giant",
+      "Ogre  for four minions"
+    ],
+    "encounterValue": 9,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 7
+  },
+  {
+    "id": "ogre-blue-blood",
+    "name": "Ogre Blue Blood",
+    "types": [
+      "Giant",
+      "Ogre  for four minions"
+    ],
+    "encounterValue": 9,
+    "organization": "minion",
+    "role": "brute",
+    "level": 7
+  },
+  {
+    "id": "olothec",
+    "name": "Olothec",
+    "types": [
+      "Horror",
+      "Olothec"
+    ],
+    "encounterValue": 84,
+    "organization": "solo",
+    "role": "solo",
+    "level": 6
+  },
+  {
+    "id": "mohler",
+    "name": "Mohler",
+    "types": [
+      "Animal",
+      "Orc  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "orc-bloodspark",
+    "name": "Orc Bloodspark",
+    "types": [
+      "Humanoid",
+      "Orc  for four minion"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "orc-glorifier",
+    "name": "Orc Glorifier",
+    "types": [
+      "Humanoid",
+      "Orc  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "controller",
+    "level": 1
+  },
+  {
+    "id": "orc-blitzer",
+    "name": "Orc Blitzer",
+    "types": [
+      "Humanoid",
+      "Orc  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "orc-razor",
+    "name": "Orc Razor",
+    "types": [
+      "Humanoid",
+      "Orc  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "orc-bloodrunner",
+    "name": "Orc Bloodrunner",
+    "types": [
+      "Humanoid",
+      "Orc"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "harrier",
+    "level": 3
+  },
+  {
+    "id": "orc-chainlock",
+    "name": "Orc Chainlock",
+    "types": [
+      "Humanoid",
+      "Orc"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "hexer",
+    "level": 1
+  },
+  {
+    "id": "orc-eye-of-grole",
+    "name": "Orc Eye of Grole",
+    "types": [
+      "Humanoid",
+      "Orc"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "orc-garotter",
+    "name": "Orc Garotter",
+    "types": [
+      "Humanoid",
+      "Orc"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "orc-godcaller",
+    "name": "Orc Godcaller",
+    "types": [
+      "Humanoid",
+      "Orc"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "orc-juggernaut",
+    "name": "Orc Juggernaut",
+    "types": [
+      "Humanoid",
+      "Orc"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "brute",
+    "level": 3
+  },
+  {
+    "id": "orc-rampart",
+    "name": "Orc Rampart",
+    "types": [
+      "Humanoid",
+      "Orc"
+    ],
+    "encounterValue": 8,
+    "organization": "platoon",
+    "role": "defender",
+    "level": 2
+  },
+  {
+    "id": "orc-terranova",
+    "name": "Orc Terranova",
+    "types": [
+      "Humanoid",
+      "Orc"
+    ],
+    "encounterValue": 8,
+    "organization": "platoon",
+    "role": "controller",
+    "level": 2
+  },
+  {
+    "id": "orc-warleader",
+    "name": "Orc Warleader",
+    "types": [
+      "Humanoid",
+      "Orc"
+    ],
+    "encounterValue": 20,
+    "organization": "leader",
+    "role": "leader",
+    "level": 3
+  },
+  {
+    "id": "scyza",
+    "name": "Scyza",
+    "types": [
+      "Animal",
+      "Orc"
+    ],
+    "encounterValue": 20,
+    "organization": "elite",
+    "role": "mount",
+    "level": 3
+  },
+  {
+    "id": "radenwight-mischiever",
+    "name": "Radenwight Mischiever",
+    "types": [
+      "Humanoid",
+      "Radenwight"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "radenwight-redeye",
+    "name": "Radenwight Redeye",
+    "types": [
+      "Humanoid",
+      "Radenwight"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "radenwight-scrapper",
+    "name": "Radenwight Scrapper",
+    "types": [
+      "Humanoid",
+      "Radenwight"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "defender",
+    "level": 1
+  },
+  {
+    "id": "radenwight-swiftpaw",
+    "name": "Radenwight Swiftpaw",
+    "types": [
+      "Humanoid",
+      "Radenwight"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "radenwight-piper",
+    "name": "Radenwight Piper",
+    "types": [
+      "Humanoid",
+      "Radenwight"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "radenwight-bruxer",
+    "name": "Radenwight Bruxer",
+    "types": [
+      "Humanoid",
+      "Radenwight"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "radenwight-ratcrobat",
+    "name": "Radenwight Ratcrobat",
+    "types": [
+      "Humanoid",
+      "Radenwight"
+    ],
+    "encounterValue": 6,
+    "organization": "platoon",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "radenwight-maestro",
+    "name": "Radenwight Maestro",
+    "types": [
+      "Humanoid",
+      "Radenwight"
+    ],
+    "encounterValue": 12,
+    "organization": "leader",
+    "role": "leader",
+    "level": 1
+  },
+  {
+    "id": "rival-conduit---1st-echelon",
+    "name": "Rival Conduit - 1st Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "support",
+    "level": 2
+  },
+  {
+    "id": "rival-elementalist---1st-echelon",
+    "name": "Rival Elementalist - 1st Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "controller",
+    "level": 2
+  },
+  {
+    "id": "rival-fury---1st-echelon",
+    "name": "Rival Fury - 1st Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "brute",
+    "level": 2
+  },
+  {
+    "id": "rival-null---1st-echelon",
+    "name": "Rival Null - 1st Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "harrier",
+    "level": 2
+  },
+  {
+    "id": "rival-shadow---1st-echelon",
+    "name": "Rival Shadow - 1st Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "ambusher",
+    "level": 2
+  },
+  {
+    "id": "rival-tactician---1st-echelon",
+    "name": "Rival Tactician - 1st Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "artillery",
+    "level": 2
+  },
+  {
+    "id": "rival-talent---1st-echelon",
+    "name": "Rival Talent - 1st Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 16,
+    "organization": "elite",
+    "role": "hexer",
+    "level": 2
+  },
+  {
+    "id": "rival-conduit---2nd-echelon",
+    "name": "Rival Conduit - 2nd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "support",
+    "level": 5
+  },
+  {
+    "id": "rival-elementalist---2nd-echelon",
+    "name": "Rival Elementalist - 2nd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "controller",
+    "level": 5
+  },
+  {
+    "id": "rival-fury---2nd-echelon",
+    "name": "Rival Fury - 2nd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "brute",
+    "level": 5
+  },
+  {
+    "id": "rival-shadow---2nd-echelon",
+    "name": "Rival Shadow - 2nd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "ambusher",
+    "level": 5
+  },
+  {
+    "id": "rival-null---2nd-echelon",
+    "name": "Rival Null - 2nd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "harrier",
+    "level": 5
+  },
+  {
+    "id": "rival-tactician---2nd-echelon",
+    "name": "Rival Tactician - 2nd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "artillery",
+    "level": 5
+  },
+  {
+    "id": "rival-talent---2nd-echelon",
+    "name": "Rival Talent - 2nd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "hexer",
+    "level": 5
+  },
+  {
+    "id": "rival-conduit---3rd-echelon",
+    "name": "Rival Conduit - 3rd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 40,
+    "organization": "elite",
+    "role": "support",
+    "level": 8
+  },
+  {
+    "id": "rival-elementalist---3rd-echelon",
+    "name": "Rival Elementalist - 3rd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 40,
+    "organization": "elite",
+    "role": "controller",
+    "level": 8
+  },
+  {
+    "id": "rival-fury---3rd-echelon",
+    "name": "Rival Fury - 3rd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 40,
+    "organization": "elite",
+    "role": "brute",
+    "level": 8
+  },
+  {
+    "id": "rival-null---3rd-echelon",
+    "name": "Rival Null - 3rd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 40,
+    "organization": "elite",
+    "role": "harrier",
+    "level": 8
+  },
+  {
+    "id": "rival-shadow---3rd-echelon",
+    "name": "Rival Shadow - 3rd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 40,
+    "organization": "elite",
+    "role": "ambusher",
+    "level": 8
+  },
+  {
+    "id": "rival-tactician---3rd-echelon",
+    "name": "Rival Tactician - 3rd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 40,
+    "organization": "elite",
+    "role": "artillery",
+    "level": 8
+  },
+  {
+    "id": "rival-talent---3rd-echelon",
+    "name": "Rival Talent - 3rd Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 40,
+    "organization": "elite",
+    "role": "hexer",
+    "level": 8
+  },
+  {
+    "id": "rival-conduit---4th-echelon",
+    "name": "Rival Conduit - 4th Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 48,
+    "organization": "elite",
+    "role": "support",
+    "level": 10
+  },
+  {
+    "id": "rival-elementalist---4th-echelon",
+    "name": "Rival Elementalist - 4th Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 48,
+    "organization": "elite",
+    "role": "controller",
+    "level": 10
+  },
+  {
+    "id": "rival-fury---4th-echelon",
+    "name": "Rival Fury - 4th Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 48,
+    "organization": "elite",
+    "role": "brute",
+    "level": 10
+  },
+  {
+    "id": "rival-null---4th-echelon",
+    "name": "Rival Null - 4th Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 48,
+    "organization": "elite",
+    "role": "harrier",
+    "level": 10
+  },
+  {
+    "id": "rival-shadow---4th-echelon",
+    "name": "Rival Shadow - 4th Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 48,
+    "organization": "elite",
+    "role": "ambusher",
+    "level": 10
+  },
+  {
+    "id": "rival-tactician---4th-echelon",
+    "name": "Rival Tactician - 4th Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 48,
+    "organization": "elite",
+    "role": "artillery",
+    "level": 10
+  },
+  {
+    "id": "rival-talent---4th-echelon",
+    "name": "Rival Talent - 4th Echelon",
+    "types": [
+      "Humanoid",
+      "Rival"
+    ],
+    "encounterValue": 48,
+    "organization": "elite",
+    "role": "hexer",
+    "level": 10
+  },
+  {
+    "id": "shambling-mound",
+    "name": "Shambling Mound",
+    "types": [
+      "Plant",
+      "Shambling Mound"
+    ],
+    "encounterValue": 84,
+    "organization": "solo",
+    "role": "solo",
+    "level": 5
+  },
+  {
+    "id": "time-raider-archon",
+    "name": "Time Raider Archon",
+    "types": [
+      "Humanoid",
+      "Time Raider  for four minions"
+    ],
+    "encounterValue": 5,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 3
+  },
+  {
+    "id": "time-raider-myriad",
+    "name": "Time Raider Myriad",
+    "types": [
+      "Humanoid",
+      "Time Raider  for four minions"
+    ],
+    "encounterValue": 5,
+    "organization": "minion",
+    "role": "brute",
+    "level": 3
+  },
+  {
+    "id": "time-raider-armiger",
+    "name": "Time Raider Armiger",
+    "types": [
+      "Humanoid",
+      "Time Raider"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "defender",
+    "level": 3
+  },
+  {
+    "id": "time-raider-cannonfall",
+    "name": "Time Raider Cannonfall",
+    "types": [
+      "Humanoid",
+      "Time Raider"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "artillery",
+    "level": 3
+  },
+  {
+    "id": "time-raider-helix",
+    "name": "Time Raider Helix",
+    "types": [
+      "Humanoid",
+      "Time Raider"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "controller",
+    "level": 3
+  },
+  {
+    "id": "time-raider-hijack",
+    "name": "Time Raider Hijack",
+    "types": [
+      "Humanoid",
+      "Time Raider"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "ambusher",
+    "level": 3
+  },
+  {
+    "id": "time-raider-mind-punk",
+    "name": "Time Raider Mind Punk",
+    "types": [
+      "Humanoid",
+      "Time Raider"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "hexer",
+    "level": 3
+  },
+  {
+    "id": "time-raider-nemesis",
+    "name": "Time Raider Nemesis",
+    "types": [
+      "Humanoid",
+      "Time Raider"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "harrier",
+    "level": 3
+  },
+  {
+    "id": "time-raider-vertex",
+    "name": "Time Raider Vertex",
+    "types": [
+      "Humanoid",
+      "Time Raider"
+    ],
+    "encounterValue": 10,
+    "organization": "platoon",
+    "role": "support",
+    "level": 3
+  },
+  {
+    "id": "time-raider-tyrannis",
+    "name": "Time Raider Tyrannis",
+    "types": [
+      "Humanoid",
+      "Time Raider"
+    ],
+    "encounterValue": 20,
+    "organization": "leader",
+    "role": "leader",
+    "level": 3
+  },
+  {
+    "id": "troll-limbjumble",
+    "name": "Troll Limbjumble",
+    "types": [
+      "Troll  for four minions"
+    ],
+    "encounterValue": 7,
+    "organization": "minion",
+    "role": "hexer",
+    "level": 5
+  },
+  {
+    "id": "troll-whelp",
+    "name": "Troll Whelp",
+    "types": [
+      "Giant",
+      "Troll  for four minions"
+    ],
+    "encounterValue": 7,
+    "organization": "minion",
+    "role": "brute",
+    "level": 5
+  },
+  {
+    "id": "troll-butcher",
+    "name": "Troll Butcher",
+    "types": [
+      "Giant",
+      "Troll"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "hexer",
+    "level": 5
+  },
+  {
+    "id": "troll-glutton",
+    "name": "Troll Glutton",
+    "types": [
+      "Giant",
+      "Troll"
+    ],
+    "encounterValue": 28,
+    "organization": "elite",
+    "role": "brute",
+    "level": 5
+  },
+  {
+    "id": "troll-crack-trooper",
+    "name": "Troll Crack Trooper",
+    "types": [
+      "Giant",
+      "Troll  for four minions"
+    ],
+    "encounterValue": 11,
+    "organization": "minion",
+    "role": "brute",
+    "level": 9
+  },
+  {
+    "id": "troll-ravager",
+    "name": "Troll Ravager",
+    "types": [
+      "Giant",
+      "Troll  for four minions"
+    ],
+    "encounterValue": 11,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 9
+  },
+  {
+    "id": "crawling-claw",
+    "name": "Crawling Claw",
+    "types": [
+      "Undead",
+      "Soulless  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "rotting-zombie",
+    "name": "Rotting Zombie",
+    "types": [
+      "Undead",
+      "Soulless  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "decrepit-skeleton",
+    "name": "Decrepit Skeleton",
+    "types": [
+      "Undead",
+      "Soulless  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "shade",
+    "name": "Shade",
+    "types": [
+      "Undead  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "ghoul",
+    "name": "Ghoul",
+    "types": [
+      "Undead"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "skeleton",
+    "name": "Skeleton",
+    "types": [
+      "Undead",
+      "Soulless"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "specter",
+    "name": "Specter",
+    "types": [
+      "Undead"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 1
+  },
+  {
+    "id": "soulwight",
+    "name": "Soulwight",
+    "types": [
+      "Undead"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 1
+  },
+  {
+    "id": "umbral-stalker",
+    "name": "Umbral Stalker",
+    "types": [
+      "Undead"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "zombie",
+    "name": "Zombie",
+    "types": [
+      "Undead",
+      "Soulless"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "ghost",
+    "name": "Ghost",
+    "types": [
+      "Undead"
+    ],
+    "encounterValue": 12,
+    "organization": "leader",
+    "role": "leader",
+    "level": 1
+  },
+  {
+    "id": "fleshflayed-shambler-zombie",
+    "name": "Fleshflayed Shambler Zombie",
+    "types": [
+      "Undead",
+      "Soulless  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "brute",
+    "level": 4
+  },
+  {
+    "id": "ghoul-craver",
+    "name": "Ghoul Craver",
+    "types": [
+      "Undead  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 4
+  },
+  {
+    "id": "hollowbone-launcher",
+    "name": "Hollowbone Launcher",
+    "types": [
+      "Undead",
+      "Soulless  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 4
+  },
+  {
+    "id": "flesh-mournling",
+    "name": "Flesh Mournling",
+    "types": [
+      "Undead"
+    ],
+    "encounterValue": 6,
+    "organization": "horde",
+    "role": "defender",
+    "level": 4
+  },
+  {
+    "id": "mummy",
+    "name": "Mummy",
+    "types": [
+      "Mummy",
+      "Undead"
+    ],
+    "encounterValue": 6,
+    "organization": "horde",
+    "role": "brute",
+    "level": 4
+  },
+  {
+    "id": "giant-zombie",
+    "name": "Giant Zombie",
+    "types": [
+      "Undead",
+      "Soulless"
+    ],
+    "encounterValue": 24,
+    "organization": "elite",
+    "role": "brute",
+    "level": 4
+  },
+  {
+    "id": "vampire-spawn",
+    "name": "Vampire Spawn",
+    "types": [
+      "Undead",
+      "Vampire"
+    ],
+    "encounterValue": 6,
+    "organization": "horde",
+    "role": "harrier",
+    "level": 4
+  },
+  {
+    "id": "wraith",
+    "name": "Wraith",
+    "types": [
+      "Undead"
+    ],
+    "encounterValue": 6,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 4
+  },
+  {
+    "id": "mummy-lord",
+    "name": "Mummy Lord",
+    "types": [
+      "Mummy",
+      "Undead"
+    ],
+    "encounterValue": 24,
+    "organization": "leader",
+    "role": "leader",
+    "level": 4
+  },
+  {
+    "id": "blood-starved-vampire",
+    "name": "Blood-Starved Vampire",
+    "types": [
+      "Undead",
+      "Vampire  for four minions"
+    ],
+    "encounterValue": 9,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 7
+  },
+  {
+    "id": "faded-echo-spirit",
+    "name": "Faded Echo Spirit",
+    "types": [
+      "Undead  for four minions"
+    ],
+    "encounterValue": 9,
+    "organization": "minion",
+    "role": "hexer",
+    "level": 7
+  },
+  {
+    "id": "mummy-rotwrap",
+    "name": "Mummy Rotwrap",
+    "types": [
+      "Mummy",
+      "Undead  for four minions"
+    ],
+    "encounterValue": 9,
+    "organization": "minion",
+    "role": "brute",
+    "level": 7
+  },
+  {
+    "id": "dirt-mournling",
+    "name": "Dirt Mournling",
+    "types": [
+      "Undead"
+    ],
+    "encounterValue": 9,
+    "organization": "horde",
+    "role": "controller",
+    "level": 7
+  },
+  {
+    "id": "haunt",
+    "name": "Haunt",
+    "types": [
+      "Undead"
+    ],
+    "encounterValue": 9,
+    "organization": "horde",
+    "role": "controller",
+    "level": 7
+  },
+  {
+    "id": "koptourok",
+    "name": "Koptourok",
+    "types": [
+      "Undead"
+    ],
+    "encounterValue": 9,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 7
+  },
+  {
+    "id": "waxen",
+    "name": "Waxen",
+    "types": [
+      "Undead",
+      "Soulless"
+    ],
+    "encounterValue": 9,
+    "organization": "horde",
+    "role": "artillery",
+    "level": 7
+  },
+  {
+    "id": "vampire",
+    "name": "Vampire",
+    "types": [
+      "Undead",
+      "Vampire"
+    ],
+    "encounterValue": 9,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 7
+  },
+  {
+    "id": "vampire-lord",
+    "name": "Vampire Lord",
+    "types": [
+      "Undead"
+    ],
+    "encounterValue": 36,
+    "organization": "leader",
+    "role": "leader",
+    "level": 7
+  },
+  {
+    "id": "giant-shambler-zombie",
+    "name": "Giant Shambler Zombie",
+    "types": [
+      "Undead",
+      "Soulless  for four minions"
+    ],
+    "encounterValue": 12,
+    "organization": "minion",
+    "role": "brute",
+    "level": 10
+  },
+  {
+    "id": "skeleton-knight",
+    "name": "Skeleton Knight",
+    "types": [
+      "Undead",
+      "Soulless  for four minions"
+    ],
+    "encounterValue": 12,
+    "organization": "minion",
+    "role": "defender",
+    "level": 10
+  },
+  {
+    "id": "wraith-skulker",
+    "name": "Wraith Skulker",
+    "types": [
+      "Undead  for four minions"
+    ],
+    "encounterValue": 12,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 10
+  },
+  {
+    "id": "bonecage",
+    "name": "Bonecage",
+    "types": [
+      "Undead",
+      "Soulless"
+    ],
+    "encounterValue": 12,
+    "organization": "horde",
+    "role": "controller",
+    "level": 10
+  },
+  {
+    "id": "lithgekh",
+    "name": "Lithgekh",
+    "types": [
+      "Undead",
+      "Soulless"
+    ],
+    "encounterValue": 12,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 10
+  },
+  {
+    "id": "count-rhodar-von-glauer",
+    "name": "Count Rhodar von Glauer",
+    "types": [
+      "Undead",
+      "Vampire"
+    ],
+    "encounterValue": 144,
+    "organization": "solo",
+    "role": "solo",
+    "level": 10
+  },
+  {
+    "id": "lich",
+    "name": "Lich",
+    "types": [
+      "Undead"
+    ],
+    "encounterValue": 144,
+    "organization": "solo",
+    "role": "solo",
+    "level": 10
+  },
+  {
+    "id": "multivok-bodyguard",
+    "name": "Multivok Bodyguard",
+    "types": [
+      "Construct",
+      "Multivok",
+      "Soulless",
+      "Valok"
+    ],
+    "encounterValue": 44,
+    "organization": "elite",
+    "role": "defender",
+    "level": 9
+  },
+  {
+    "id": "multivok-chief",
+    "name": "Multivok Chief",
+    "types": [
+      "Construct",
+      "Multivok",
+      "Soulless",
+      "Valok"
+    ],
+    "encounterValue": 44,
+    "organization": "elite",
+    "role": "support",
+    "level": 9
+  },
+  {
+    "id": "servok-builder",
+    "name": "Servok Builder",
+    "types": [
+      "Construct",
+      "Servok",
+      "Soulless",
+      "Valok"
+    ],
+    "encounterValue": 44,
+    "organization": "elite",
+    "role": "brute",
+    "level": 9
+  },
+  {
+    "id": "servok-miner",
+    "name": "Servok Miner",
+    "types": [
+      "Construct",
+      "Servok",
+      "Soulless",
+      "Valok"
+    ],
+    "encounterValue": 44,
+    "organization": "elite",
+    "role": "controller",
+    "level": 9
+  },
+  {
+    "id": "servok-war-engine",
+    "name": "Servok War Engine",
+    "types": [
+      "Construct",
+      "Servok",
+      "Soulless",
+      "Valok"
+    ],
+    "encounterValue": 48,
+    "organization": "elite",
+    "role": "brute",
+    "level": 10
+  },
+  {
+    "id": "mindkiller-whelp",
+    "name": "Mindkiller Whelp",
+    "types": [
+      "Horror",
+      "Voiceless Talker  for four minions"
+    ],
+    "encounterValue": 8,
+    "organization": "minion",
+    "role": "hexer",
+    "level": 6
+  },
+  {
+    "id": "voiceless-talker-graywarper",
+    "name": "Voiceless Talker Graywarper",
+    "types": [
+      "Horror",
+      "Voiceless Talker  for four minions"
+    ],
+    "encounterValue": 8,
+    "organization": "minion",
+    "role": "controller",
+    "level": 6
+  },
+  {
+    "id": "hulking-brain",
+    "name": "Hulking Brain",
+    "types": [
+      "Horror",
+      "Voiceless Talker"
+    ],
+    "encounterValue": 32,
+    "organization": "elite",
+    "role": "brute",
+    "level": 6
+  },
+  {
+    "id": "mindkiller",
+    "name": "Mindkiller",
+    "types": [
+      "Horror",
+      "Voiceless Talker"
+    ],
+    "encounterValue": 32,
+    "organization": "elite",
+    "role": "hexer",
+    "level": 6
+  },
+  {
+    "id": "voiceless-talker-artillerist",
+    "name": "Voiceless Talker Artillerist",
+    "types": [
+      "Horror",
+      "Voiceless Talker"
+    ],
+    "encounterValue": 32,
+    "organization": "elite",
+    "role": "artillery",
+    "level": 6
+  },
+  {
+    "id": "voiceless-talker-invader",
+    "name": "Voiceless Talker Invader",
+    "types": [
+      "Horror",
+      "Voiceless Talker"
+    ],
+    "encounterValue": 32,
+    "organization": "elite",
+    "role": "controller",
+    "level": 6
+  },
+  {
+    "id": "voiceless-talker-evolutionist",
+    "name": "Voiceless Talker Evolutionist",
+    "types": [
+      "Horror",
+      "Voiceless Talker"
+    ],
+    "encounterValue": 32,
+    "organization": "leader",
+    "role": "leader",
+    "level": 6
+  },
+  {
+    "id": "lord-syuul",
+    "name": "Lord Syuul",
+    "types": [
+      "Horror",
+      "Voiceless Talker"
+    ],
+    "encounterValue": 96,
+    "organization": "solo",
+    "role": "solo",
+    "level": 6
+  },
+  {
+    "id": "war-dog-conscript",
+    "name": "War Dog Conscript",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "war-dog-sharpshooter",
+    "name": "War Dog Sharpshooter",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "war-dog-commando",
+    "name": "War Dog Commando",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "war-dog-tetherite",
+    "name": "War Dog Tetherite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 3,
+    "organization": "minion",
+    "role": "brute",
+    "level": 1
+  },
+  {
+    "id": "war-dog-amalgamite",
+    "name": "War Dog Amalgamite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 4,
+    "organization": "horde",
+    "role": "brute",
+    "level": 2
+  },
+  {
+    "id": "war-dog-crucibite",
+    "name": "War Dog Crucibite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "artillery",
+    "level": 1
+  },
+  {
+    "id": "war-dog-eviscerite",
+    "name": "War Dog Eviscerite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "harrier",
+    "level": 1
+  },
+  {
+    "id": "war-dog-neuronite",
+    "name": "War Dog Neuronite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "defender",
+    "level": 1
+  },
+  {
+    "id": "war-dog-pestilite",
+    "name": "War Dog Pestilite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 5,
+    "organization": "horde",
+    "role": "controller",
+    "level": 3
+  },
+  {
+    "id": "war-dog-phosphorite",
+    "name": "War Dog Phosphorite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 4,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 2
+  },
+  {
+    "id": "war-dog-teletalite",
+    "name": "War Dog Teletalite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 3,
+    "organization": "horde",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "war-dog-subcommander",
+    "name": "War Dog Subcommander",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 4,
+    "organization": "horde",
+    "role": "support",
+    "level": 2
+  },
+  {
+    "id": "war-dog-ground-commander",
+    "name": "War Dog Ground Commander",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 20,
+    "organization": "leader",
+    "role": "leader",
+    "level": 3
+  },
+  {
+    "id": "war-dog-sparkslinger",
+    "name": "War Dog Sparkslinger",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 4
+  },
+  {
+    "id": "war-dog-sweeper",
+    "name": "War Dog Sweeper",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 4
+  },
+  {
+    "id": "war-dog-arachnite",
+    "name": "War Dog Arachnite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 8,
+    "organization": "horde",
+    "role": "artillery",
+    "level": 6
+  },
+  {
+    "id": "war-dog-war-frog",
+    "name": "War Dog War Frog",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 6,
+    "organization": "minion",
+    "role": "ambusher",
+    "level": 4
+  },
+  {
+    "id": "war-dog-doomthief",
+    "name": "War Dog Doomthief",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 7,
+    "organization": "horde",
+    "role": "defender",
+    "level": 5
+  },
+  {
+    "id": "war-dog-hypokrite",
+    "name": "War Dog Hypokrite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 6,
+    "organization": "horde",
+    "role": "ambusher",
+    "level": 4
+  },
+  {
+    "id": "war-dog-equivite",
+    "name": "War Dog Equivite",
+    "types": [
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 6,
+    "organization": "horde",
+    "role": "brute",
+    "level": 4
+  },
+  {
+    "id": "war-dog-mischievite",
+    "name": "War Dog Mischievite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 7,
+    "organization": "horde",
+    "role": "harrier",
+    "level": 5
+  },
+  {
+    "id": "war-dog-thanatite",
+    "name": "War Dog Thanatite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 8,
+    "organization": "horde",
+    "role": "controller",
+    "level": 6
+  },
+  {
+    "id": "war-dog-tormentite",
+    "name": "War Dog Tormentite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 7,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 5
+  },
+  {
+    "id": "war-dog-war-doc",
+    "name": "War Dog War Doc",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 7,
+    "organization": "horde",
+    "role": "support",
+    "level": 5
+  },
+  {
+    "id": "war-dog-tetrarch",
+    "name": "War Dog Tetrarch",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 32,
+    "organization": "leader",
+    "role": "leader",
+    "level": 6
+  },
+  {
+    "id": "war-dog-draconite",
+    "name": "War Dog Draconite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 9,
+    "organization": "minion",
+    "role": "brute",
+    "level": 7
+  },
+  {
+    "id": "war-dog-saboteur",
+    "name": "War Dog Saboteur",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 9,
+    "organization": "minion",
+    "role": "ambusher",
+    "level": 7
+  },
+  {
+    "id": "war-dog-shriketroop",
+    "name": "War Dog Shriketroop",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 9,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 7
+  },
+  {
+    "id": "war-dog-aerocite",
+    "name": "War Dog Aerocite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 10,
+    "organization": "horde",
+    "role": "harrier",
+    "level": 8
+  },
+  {
+    "id": "war-dog-ballistite",
+    "name": "War Dog Ballistite",
+    "types": [
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 10,
+    "organization": "horde",
+    "role": "artillery",
+    "level": 8
+  },
+  {
+    "id": "war-dog-blackcap",
+    "name": "War Dog Blackcap",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 9,
+    "organization": "horde",
+    "role": "ambusher",
+    "level": 7
+  },
+  {
+    "id": "war-dog-firestarter",
+    "name": "War Dog Firestarter",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 10,
+    "organization": "horde",
+    "role": "hexer",
+    "level": 8
+  },
+  {
+    "id": "war-dog-breaker",
+    "name": "War Dog Breaker",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 36,
+    "organization": "elite",
+    "role": "brute",
+    "level": 7
+  },
+  {
+    "id": "war-dog-geomancer",
+    "name": "War Dog Geomancer",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 10,
+    "organization": "horde",
+    "role": "controller",
+    "level": 8
+  },
+  {
+    "id": "war-dog-iron-priest",
+    "name": "War Dog Iron Priest",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 10,
+    "organization": "horde",
+    "role": "support",
+    "level": 8
+  },
+  {
+    "id": "war-dog-prismite",
+    "name": "War Dog Prismite",
+    "types": [
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 10,
+    "organization": "horde",
+    "role": "defender",
+    "level": 8
+  },
+  {
+    "id": "war-dog-taxiarch",
+    "name": "War Dog Taxiarch",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 44,
+    "organization": "leader",
+    "role": "leader",
+    "level": 9
+  },
+  {
+    "id": "war-dog-blood-jumper",
+    "name": "War Dog Blood Jumper",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 12,
+    "organization": "minion",
+    "role": "harrier",
+    "level": 10
+  },
+  {
+    "id": "war-dog-hunter-killer",
+    "name": "War Dog Hunter-Killer",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 12,
+    "organization": "minion",
+    "role": "artillery",
+    "level": 10
+  },
+  {
+    "id": "war-dog-socialite",
+    "name": "War Dog Socialite",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog  for four minions"
+    ],
+    "encounterValue": 12,
+    "organization": "minion",
+    "role": "hexer",
+    "level": 10
+  },
+  {
+    "id": "castellan-hoplon",
+    "name": "Castellan Hoplon",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 48,
+    "organization": "elite",
+    "role": "defender",
+    "level": 10
+  },
+  {
+    "id": "iron-champion-doru",
+    "name": "Iron Champion Doru",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 48,
+    "organization": "elite",
+    "role": "brute",
+    "level": 10
+  },
+  {
+    "id": "logostician-vesper",
+    "name": "Logostician Vesper",
+    "types": [
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 48,
+    "organization": "elite",
+    "role": "controller",
+    "level": 10
+  },
+  {
+    "id": "soulbinder-psyche",
+    "name": "Soulbinder Psyche",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 48,
+    "organization": "elite",
+    "role": "hexer",
+    "level": 10
+  },
+  {
+    "id": "strategos-alkestis",
+    "name": "Strategos Alkestis",
+    "types": [
+      "Humanoid",
+      "Soulless",
+      "War Dog"
+    ],
+    "encounterValue": 48,
+    "organization": "leader",
+    "role": "leader",
+    "level": 10
+  },
+  {
+    "id": "werewolf",
+    "name": "Werewolf",
+    "types": [
+      "Accursed",
+      "Humanoid",
+      "Werebeast"
+    ],
+    "encounterValue": 36,
+    "organization": "solo",
+    "role": "solo",
+    "level": 1
+  },
+  {
+    "id": "wyvern-lurker",
+    "name": "Wyvern Lurker",
+    "types": [
+      "Beast",
+      "Wyvern"
+    ],
+    "encounterValue": 24,
+    "organization": "elite",
+    "role": "ambusher",
+    "level": 4
+  },
+  {
+    "id": "wyvern-predator",
+    "name": "Wyvern Predator",
+    "types": [
+      "Beast",
+      "Wyvern"
+    ],
+    "encounterValue": 24,
+    "organization": "elite",
+    "role": "brute",
+    "level": 4
+  },
+  {
+    "id": "xorannox-the-tyract",
+    "name": "Xorannox the Tyract",
+    "types": [
+      "Horror",
+      "Overmind"
+    ],
+    "encounterValue": 96,
+    "organization": "solo",
+    "role": "solo",
+    "level": 6
+  }
+]
