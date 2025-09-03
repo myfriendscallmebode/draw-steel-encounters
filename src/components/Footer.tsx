@@ -5,25 +5,24 @@ export const Footer: React.FC = () => {
     <footer className="mt-12 pt-8 border-t border-gray-700">
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex flex-col items-center space-y-4">
-          {/* Draw Steel Logo */}
-          <div className="flex items-center justify-center">
+          {/* Draw Steel Logo and Legal Text */}
+          <div className="flex items-center justify-center gap-4 max-w-4xl">
             <img 
               src={`${process.env.PUBLIC_URL}/Powered_By_Draw_Steel.webp`}
               alt="Powered by Draw Steel"
-              className="h-12 object-contain"
+              className="h-4 w-auto max-w-16 object-contain flex-shrink-0"
+              style={{ maxHeight: '80px', height: '80px', width: 'auto' }}
               onError={(e) => {
                 // Hide image if file doesn't exist
                 (e.target as HTMLImageElement).style.display = 'none';
               }}
             />
-          </div>
-          
-          {/* Legal Text */}
-          <div className="text-center text-gray-400 text-sm max-w-4xl">
-            <p>
-              Encounter Builder is an independent product published under the DRAW STEEL Creator License 
-              and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
-            </p>
+            <div className="text-gray-400 text-sm">
+              <p>
+                Draw Steel Encounter Builder is an independent product published under the DRAW STEEL Creator License 
+                and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
+              </p>
+            </div>
           </div>
           
           {/* Additional Footer Info */}

@@ -155,7 +155,7 @@ function App() {
       <div className="container mx-auto px-4 py-8">
         <header className="text-center mb-8">
           <h1 className="text-4xl font-bold text-white mb-2">Draw Steel Encounter Builder</h1>
-          <p className="text-gray-400">Build balanced encounters for your tabletop RPG</p>
+          <p className="text-gray-400">Build balanced encounters for your Draw Steel games</p>
         </header>
 
         <div className="max-w-6xl mx-auto">
