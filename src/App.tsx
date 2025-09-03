@@ -6,6 +6,7 @@ import { PartyInput } from './components/PartyInput';
 import { MonsterSearch } from './components/MonsterSearch';
 import { EncounterDisplay } from './components/EncounterDisplay';
 import { EncounterStats } from './components/EncounterStats';
+import { Footer } from './components/Footer';
 import './App.css';
 
 function App() {
@@ -172,6 +173,8 @@ function App() {
 
           <EncounterStats encounter={encounter} party={party} />
         </div>
+        
+        <Footer />
       </div>
     </div>
   );

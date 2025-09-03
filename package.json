@@ -2,7 +2,7 @@
   "name": "encounter-builder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aaronbode.github.io/encounter_builder",
+  "homepage": "https://myfriendscallmebode.github.io/draw-steel-encounters",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
