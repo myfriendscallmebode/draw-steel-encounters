@@ -7,6 +7,7 @@ import { MonsterSearch } from './components/MonsterSearch';
 import { EncounterDisplay } from './components/EncounterDisplay';
 import { EncounterStats } from './components/EncounterStats';
 import { Footer } from './components/Footer';
+import { HowToUse } from './components/HowToUse';
 import './App.css';
 
 function App() {
@@ -159,6 +160,7 @@ function App() {
         </header>
 
         <div className="max-w-6xl mx-auto">
+          <HowToUse />
           <PartyInput party={party} onPartyChange={setParty} />
           
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8 items-start">

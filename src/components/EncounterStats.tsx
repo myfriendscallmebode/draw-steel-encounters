@@ -155,15 +155,36 @@ export const EncounterStats: React.FC<EncounterStatsProps> = ({ encounter, party
       <h3 className="text-white font-semibold mb-4">Encounter Analysis</h3>
       
       {/* Basic Stats */}
-      <div className="grid grid-cols-2 gap-4 mb-6 text-sm">
-        <div>
-          <p className="text-gray-300">Party ES: {party.encounterStrength}</p>
-          <p className="text-gray-300">Encounter EV: {encounter.totalEV}</p>
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6 text-sm">
+        <div className="bg-gray-600 p-3 rounded">
+          <div className="flex items-center justify-between">
+            <span className="text-gray-300">Party ES:</span>
+            <span className="text-white font-medium">{party.encounterStrength}</span>
+          </div>
+          <div className="flex items-center justify-between">
+            <span className="text-gray-300">Encounter EV:</span>
+            <span className="text-white font-medium">{encounter.totalEV}</span>
+          </div>
         </div>
-        <div>
-          <p className="text-gray-300">EV/ES Ratio: {(encounter.totalEV / party.encounterStrength).toFixed(2)}</p>
-          <p className="text-gray-300">Total Creatures: {totalCreatures}</p>
-          <p className="text-gray-300">Total Organizations: {totalOrganizations}</p>
+        <div className="bg-gray-600 p-3 rounded">
+          <div className="flex items-center justify-between">
+            <span className="text-gray-300">EV/ES Ratio:</span>
+            <span className="text-white font-medium">{(encounter.totalEV / party.encounterStrength).toFixed(2)}</span>
+          </div>
+          <div className="flex items-center justify-between">
+            <span className="text-gray-300">Difficulty:</span>
+            <span className="text-white font-medium capitalize">{encounter.difficulty}</span>
+          </div>
+        </div>
+        <div className="bg-gray-600 p-3 rounded">
+          <div className="flex items-center justify-between">
+            <span className="text-gray-300">Creatures:</span>
+            <span className="text-white font-medium">{totalCreatures}</span>
+          </div>
+          <div className="flex items-center justify-between">
+            <span className="text-gray-300">Organizations:</span>
+            <span className="text-white font-medium">{totalOrganizations}</span>
+          </div>
         </div>
       </div>
 
@@ -179,11 +200,29 @@ export const EncounterStats: React.FC<EncounterStatsProps> = ({ encounter, party
                   {getStatusText(stats.organizationsPerHero, stats.recommended)}
                 </span>
               </div>
-              <div className="text-gray-300 text-sm">
-                <p>Creatures: {stats.creatureCount} total ({stats.creaturesPerHero.toFixed(2)} per hero)</p>
-                <p>Organizations: {stats.organizationCount} groups ({stats.organizationsPerHero.toFixed(2)} per hero)</p>
-                <p className="text-gray-350 text-xs">Recommended: {stats.recommended.description}</p>
+              <div className="grid grid-cols-2 gap-4 text-gray-300 text-sm">
+                <div>
+                  <div className="flex justify-between">
+                    <span>Creatures:</span>
+                    <span className="text-white">{stats.creatureCount}</span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span>Per Hero:</span>
+                    <span className="text-white">{stats.creaturesPerHero.toFixed(1)}</span>
+                  </div>
+                </div>
+                <div>
+                  <div className="flex justify-between">
+                    <span>Groups:</span>
+                    <span className="text-white">{stats.organizationCount}</span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span>Per Hero:</span>
+                    <span className="text-white">{stats.organizationsPerHero.toFixed(1)}</span>
+                  </div>
+                </div>
               </div>
+              <p className="text-gray-400 text-xs mt-2">Recommended: {stats.recommended.description}</p>
             </div>
           ))}
         </div>
@@ -198,14 +237,14 @@ export const EncounterStats: React.FC<EncounterStatsProps> = ({ encounter, party
             const percentage = (stats.organizationCount / totalOrganizations) * 100;
             return (
               <div key={org} className="flex items-center gap-3">
-                <div className="w-20 text-gray-300 text-sm capitalize">{org}</div>
-                <div className="flex-1 bg-gray-600 rounded-full h-4">
+                <div className="w-16 text-gray-300 text-xs capitalize">{org}</div>
+                <div className="flex-1 bg-gray-600 rounded-full h-3">
                   <div 
-                    className="bg-blue-500 h-4 rounded-full transition-all duration-300"
+                    className="bg-blue-500 h-3 rounded-full transition-all duration-300"
                     style={{ width: `${percentage}%` }}
                   ></div>
                 </div>
-                <div className="w-12 text-gray-300 text-sm text-right">{stats.organizationCount}</div>
+                <div className="w-8 text-gray-300 text-xs text-right">{stats.organizationCount}</div>
               </div>
             );
           })}
@@ -220,14 +259,14 @@ export const EncounterStats: React.FC<EncounterStatsProps> = ({ encounter, party
             const percentage = (count / totalCreatures) * 100;
             return (
               <div key={role} className="flex items-center gap-3">
-                <div className="w-20 text-gray-300 text-sm capitalize">{role}</div>
-                <div className="flex-1 bg-gray-600 rounded-full h-4">
+                <div className="w-16 text-gray-300 text-xs capitalize">{role}</div>
+                <div className="flex-1 bg-gray-600 rounded-full h-3">
                   <div 
-                    className="bg-green-500 h-4 rounded-full transition-all duration-300"
+                    className="bg-green-500 h-3 rounded-full transition-all duration-300"
                     style={{ width: `${percentage}%` }}
                   ></div>
                 </div>
-                <div className="w-12 text-gray-300 text-sm text-right">{count}</div>
+                <div className="w-8 text-gray-300 text-xs text-right">{count}</div>
               </div>
             );
           })}
