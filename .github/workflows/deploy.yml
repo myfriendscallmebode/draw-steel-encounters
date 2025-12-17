@@ -44,6 +44,11 @@ jobs:
       - name: Build
         run: npm run build
         
+      - name: Verify build output
+        run: |
+          ls -la build/
+          test -f build/index.html || (echo "index.html not found!" && exit 1)
+        
       - name: Setup Pages
         uses: actions/configure-pages@v4
         
