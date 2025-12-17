@@ -25,11 +25,14 @@ jobs:
         with:
           node-version: '18'
           cache: 'npm'
+          cache-dependency-path: encounter-builder/package-lock.json
           
       - name: Install dependencies
+        working-directory: ./encounter-builder
         run: npm ci
         
       - name: Build
+        working-directory: ./encounter-builder
         run: npm run build
         
       - name: Setup Pages
@@ -38,7 +41,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./build
+          path: ./encounter-builder/build
           
   deploy:
     environment:
