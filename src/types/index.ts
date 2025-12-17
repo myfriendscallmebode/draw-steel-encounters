@@ -3,7 +3,7 @@ export interface Monster {
   name: string;
   types: string[];
   encounterValue: number;
-  organization: 'minion' | 'horde' | 'platoon' | 'elite' | 'leader' | 'solo';
+  organization: 'minion' | 'horde' | 'platoon' | 'elite' | 'leader' | 'solo' | 'terrain';
   role: 'ambusher' | 'artillery' | 'brute' | 'controller' | 'defender' | 'harrier' | 'hexer' | 'leader' | 'support' | 'mount' | 'solo';
   level: number;
 }

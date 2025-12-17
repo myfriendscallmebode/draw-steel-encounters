@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Encounter, Party } from '../types';
-import { getDifficultyColor } from '../utils/encounterCalculations';
+import { getDifficultyColor, determineEncounterDifficulty } from '../utils/encounterCalculations';
 
 interface EncounterDisplayProps {
   encounter: Encounter;
@@ -15,7 +15,15 @@ export const EncounterDisplay: React.FC<EncounterDisplayProps> = ({
   onRemoveCreature,
   onUpdateQuantity
 }) => {
-  const difficultyColor = getDifficultyColor(encounter.difficulty);
+  const [adjustEV, setAdjustEV] = useState(0);
+  
+  // Calculate total EV with adjustment
+  const baseEV = encounter.totalEV;
+  const totalEV = baseEV + adjustEV;
+  
+  // Recalculate difficulty based on total EV
+  const difficulty = determineEncounterDifficulty(party.encounterStrength, totalEV, party.heroLevel);
+  const difficultyColor = getDifficultyColor(difficulty);
 
   // Check for creatures that are too high level
   const highLevelCreatures = encounter.creatures.filter(creature => 
@@ -26,18 +34,31 @@ export const EncounterDisplay: React.FC<EncounterDisplayProps> = ({
     <div className="bg-gray-800 p-6 rounded-lg">
       <div className="flex items-center justify-between mb-4">
         <h2 className="text-xl font-bold text-white">Current Encounter</h2>
-        <div className="flex items-center gap-4">
+        <div className="flex items-start gap-4">
           <div className="text-right">
-            <p className="text-gray-300 text-sm">Total EV</p>
-            <p className="text-white font-bold">{encounter.totalEV}</p>
+            <p className="text-gray-300 text-sm mb-1">Base EV</p>
+            <p className="text-white font-bold">{baseEV}</p>
           </div>
           <div className="text-right">
-            <p className="text-gray-300 text-sm">Difficulty</p>
+            <p className="text-gray-300 text-sm mb-1">Adjust EV</p>
+            <input
+              type="number"
+              value={adjustEV}
+              onChange={(e) => setAdjustEV(parseInt(e.target.value) || 0)}
+              className="w-16 px-2 py-1 bg-gray-600 border border-gray-500 rounded text-white text-center font-bold"
+            />
+          </div>
+          <div className="text-right">
+            <p className="text-gray-300 text-sm mb-1">Total EV</p>
+            <p className="text-white font-bold">{totalEV}</p>
+          </div>
+          <div className="text-right">
+            <p className="text-gray-300 text-sm mb-1">Difficulty</p>
             <p 
               className="font-bold capitalize"
               style={{ color: difficultyColor }}
             >
-              {encounter.difficulty}
+              {difficulty}
             </p>
           </div>
         </div>

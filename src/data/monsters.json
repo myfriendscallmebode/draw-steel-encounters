@@ -284,7 +284,7 @@
       "Bugbear",
       "Fey",
       "Goblin",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 10,
     "organization": "minion",
@@ -298,7 +298,7 @@
       "Bugbear",
       "Fey",
       "Goblin",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 7,
     "organization": "minion",
@@ -312,7 +312,7 @@
       "Bugbear",
       "Fey",
       "Goblin",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 7,
     "organization": "minion",
@@ -336,7 +336,7 @@
     "name": "Ensnarer",
     "types": [
       "Abyssal",
-      "Demon  for four minions"
+      "Demon"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -348,7 +348,7 @@
     "name": "Pitling",
     "types": [
       "Abyssal",
-      "Demon  for four minions"
+      "Demon"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -360,7 +360,7 @@
     "name": "Frenzied",
     "types": [
       "Abyssal",
-      "Demon  for four minions"
+      "Demon"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -444,7 +444,7 @@
     "name": "Grulqin",
     "types": [
       "Abyssal",
-      "Demon  for four minions"
+      "Demon"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -456,7 +456,7 @@
     "name": "Orliq",
     "types": [
       "Abyssal",
-      "Demon  for four minions"
+      "Demon"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -468,7 +468,7 @@
     "name": "Wobalas",
     "types": [
       "Abyssal",
-      "Demon  for four minions"
+      "Demon"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -553,7 +553,7 @@
     "types": [
       "Abyssal",
       "Demon",
-      "Soulraker  for four minions"
+      "Soulraker"
     ],
     "encounterValue": 9,
     "organization": "minion",
@@ -566,7 +566,7 @@
     "types": [
       "Abyssal",
       "Demon",
-      "Soulraker  for four minions"
+      "Soulraker"
     ],
     "encounterValue": 9,
     "organization": "minion",
@@ -579,7 +579,7 @@
     "types": [
       "Abyssal",
       "Demon",
-      "Soulraker  for four minions"
+      "Soulraker"
     ],
     "encounterValue": 9,
     "organization": "minion",
@@ -666,7 +666,7 @@
     "name": "Optacus",
     "types": [
       "Abyssal",
-      "Demon  for four minions"
+      "Demon"
     ],
     "encounterValue": 12,
     "organization": "minion",
@@ -678,7 +678,7 @@
     "name": "Tyburaki",
     "types": [
       "Abyssal",
-      "Demon  for four minions"
+      "Demon"
     ],
     "encounterValue": 12,
     "organization": "minion",
@@ -690,7 +690,7 @@
     "name": "Unguloid",
     "types": [
       "Abyssal",
-      "Demon  for four minions"
+      "Demon"
     ],
     "encounterValue": 12,
     "organization": "minion",
@@ -738,7 +738,7 @@
     "name": "Devil Clerk",
     "types": [
       "Devil",
-      "Infernal  for four minions"
+      "Infernal"
     ],
     "encounterValue": 7,
     "organization": "minion",
@@ -750,7 +750,7 @@
     "name": "Devil Scrivener",
     "types": [
       "Devil",
-      "Infernal  for four minions"
+      "Infernal"
     ],
     "encounterValue": 7,
     "organization": "minion",
@@ -762,7 +762,7 @@
     "name": "Devil Notary",
     "types": [
       "Devil",
-      "Infernal  for four minions"
+      "Infernal"
     ],
     "encounterValue": 7,
     "organization": "minion",
@@ -1184,7 +1184,7 @@
     "types": [
       "Elemental",
       "High Elf",
-      "Soulless  for four minions"
+      "Soulless"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -1197,7 +1197,7 @@
     "types": [
       "Fey",
       "High Elf",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -1210,7 +1210,7 @@
     "types": [
       "Fey",
       "High Elf",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -1222,7 +1222,7 @@
     "name": "Soot Crow",
     "types": [
       "Elemental",
-      "High Elf  for four minions"
+      "High Elf"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -1350,7 +1350,7 @@
     "types": [
       "Fey",
       "Humanoid",
-      "Shadow Elf  for four minions"
+      "Shadow Elf"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -1363,7 +1363,7 @@
     "types": [
       "Fey",
       "Humanoid",
-      "Shadow Elf  for four minions"
+      "Shadow Elf"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -1376,7 +1376,7 @@
     "types": [
       "Fey",
       "Humanoid",
-      "Shadow Elf  for four minions"
+      "Shadow Elf"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -1389,7 +1389,7 @@
     "types": [
       "Fey",
       "Humanoid",
-      "Shadow Elf  for four minions"
+      "Shadow Elf"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -1532,7 +1532,7 @@
     "types": [
       "Fey",
       "Humanoid",
-      "Wode Elf  for four minions"
+      "Wode Elf"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -1545,7 +1545,7 @@
     "types": [
       "Fey",
       "Humanoid",
-      "Wode Elf  for four minions"
+      "Wode Elf"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -1558,7 +1558,7 @@
     "types": [
       "Fey",
       "Humanoid",
-      "Wode Elf  for four minions"
+      "Wode Elf"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -1571,7 +1571,7 @@
     "types": [
       "Fey",
       "Humanoid",
-      "Wode Elf  for four minions"
+      "Wode Elf"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -1674,7 +1674,8 @@
     "name": "Wode Elf Warleader",
     "types": [
       "Fey",
-      "Humanoid. Wode Elf"
+      "Humanoid",
+      "Wode Elf"
     ],
     "encounterValue": 20,
     "organization": "leader",
@@ -1709,7 +1710,7 @@
     "name": "Fire Giant Fireballer",
     "types": [
       "Fire Giant",
-      "Giant  for four minions"
+      "Giant"
     ],
     "encounterValue": 11,
     "organization": "minion",
@@ -1721,7 +1722,7 @@
     "name": "Hill Giant Mosstooth",
     "types": [
       "Giant",
-      "Hill Giant for four minions"
+      "Hill Giant"
     ],
     "encounterValue": 9,
     "organization": "minion",
@@ -1733,7 +1734,7 @@
     "name": "Frost Giant Snowblaster",
     "types": [
       "Frost Giant",
-      "Giant  for four minions"
+      "Giant"
     ],
     "encounterValue": 10,
     "organization": "minion",
@@ -1745,7 +1746,7 @@
     "name": "Sand Stone Giant",
     "types": [
       "Giant",
-      "Stone Giant  for four minions"
+      "Stone Giant"
     ],
     "encounterValue": 10,
     "organization": "minion",
@@ -1866,7 +1867,7 @@
     "types": [
       "Abyssal",
       "Animal",
-      "Gnoll  for four minions"
+      "Gnoll"
     ],
     "encounterValue": 4,
     "organization": "minion",
@@ -1878,7 +1879,7 @@
     "name": "Gnoll Mage Mauler",
     "types": [
       "Abyssal",
-      "Gnoll  for four minions"
+      "Gnoll"
     ],
     "encounterValue": 4,
     "organization": "minion",
@@ -1890,7 +1891,7 @@
     "name": "Gnoll Chainflail",
     "types": [
       "Abyssal",
-      "Gnoll  for four minions"
+      "Gnoll"
     ],
     "encounterValue": 4,
     "organization": "minion",
@@ -1902,7 +1903,7 @@
     "name": "Gnoll Wildling",
     "types": [
       "Abyssal",
-      "Gnoll  for four minions"
+      "Gnoll"
     ],
     "encounterValue": 4,
     "organization": "minion",
@@ -1999,7 +2000,7 @@
     "name": "Goblin Runner",
     "types": [
       "Goblin",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2011,7 +2012,7 @@
     "name": "Skitterling",
     "types": [
       "Animal",
-      "Goblin  for four minions"
+      "Goblin"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2023,7 +2024,7 @@
     "name": "Goblin Sniper",
     "types": [
       "Goblin",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2035,7 +2036,7 @@
     "name": "Goblin Spinecleaver",
     "types": [
       "Goblin",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2181,7 +2182,7 @@
       "Goblin",
       "Hobgoblin",
       "Humanoid",
-      "Infernal  for four minions"
+      "Infernal"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -2195,7 +2196,7 @@
       "Goblin",
       "Hobgoblin",
       "Humanoid",
-      "Infernal  for four minions"
+      "Infernal"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -2209,7 +2210,7 @@
       "Goblin",
       "Hobgoblin",
       "Humanoid",
-      "Infernal  for four minions"
+      "Infernal"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -2222,7 +2223,7 @@
     "types": [
       "Devil",
       "Hobgoblin",
-      "Infernal  for four minions"
+      "Infernal"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -2387,7 +2388,7 @@
     "name": "Human Apprentice Mage",
     "types": [
       "Human",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 4,
     "organization": "minion",
@@ -2399,7 +2400,7 @@
     "name": "Human Guard",
     "types": [
       "Human",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2411,7 +2412,7 @@
     "name": "Human Archer",
     "types": [
       "Human",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2423,7 +2424,7 @@
     "name": "Human Raider",
     "types": [
       "Human",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2435,7 +2436,7 @@
     "name": "Human Death Acolyte",
     "types": [
       "Human",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2447,7 +2448,7 @@
     "name": "Human Rogue",
     "types": [
       "Human",
-      "Humanoid  for four minions"
+      "Humanoid"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2579,7 +2580,7 @@
     "name": "Kobold Princeps",
     "types": [
       "Humanoid",
-      "Kobold  for four minions"
+      "Kobold"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2591,7 +2592,7 @@
     "name": "Kobold Tiro",
     "types": [
       "Humanoid",
-      "Kobold  for four minions"
+      "Kobold"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2603,7 +2604,7 @@
     "name": "Kobold Sagittarion",
     "types": [
       "Humanoid",
-      "Kobold  for four minions"
+      "Kobold"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2615,7 +2616,7 @@
     "name": "Kobold Veles",
     "types": [
       "Humanoid",
-      "Kobold  for four minions"
+      "Kobold"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2748,7 +2749,7 @@
     "name": "Lizardfolk Grunt",
     "types": [
       "Humanoid",
-      "Lizardfolk  for four minions"
+      "Lizardfolk"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2760,7 +2761,7 @@
     "name": "Lizardfolk Tonguer",
     "types": [
       "Humanoid",
-      "Lizardfolk  for four minions"
+      "Lizardfolk"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2772,7 +2773,7 @@
     "name": "Lizardfolk Shellguard",
     "types": [
       "Humanoid",
-      "Lizardfolk  for four minions"
+      "Lizardfolk"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -2884,7 +2885,7 @@
     "types": [
       "Accursed",
       "Humanoid",
-      "Minotaur  for four minions"
+      "Minotaur"
     ],
     "encounterValue": 10,
     "organization": "minion",
@@ -2897,7 +2898,7 @@
     "types": [
       "Accursed",
       "Humanoid",
-      "Minotaur  for four minions"
+      "Minotaur"
     ],
     "encounterValue": 10,
     "organization": "minion",
@@ -2911,7 +2912,7 @@
       "Accursed",
       "Humanoid",
       "Minotaur",
-      "Swarm  for four minions"
+      "Swarm"
     ],
     "encounterValue": 12,
     "organization": "minion",
@@ -2947,7 +2948,7 @@
     "name": "Cyclops",
     "types": [
       "Giant",
-      "Ogre  for four minions"
+      "Ogre"
     ],
     "encounterValue": 12,
     "organization": "minion",
@@ -2959,7 +2960,7 @@
     "name": "Ogre Tantrum",
     "types": [
       "Giant",
-      "Ogre  for four minions"
+      "Ogre"
     ],
     "encounterValue": 9,
     "organization": "minion",
@@ -2971,7 +2972,7 @@
     "name": "Ogre Blue Blood",
     "types": [
       "Giant",
-      "Ogre  for four minions"
+      "Ogre"
     ],
     "encounterValue": 9,
     "organization": "minion",
@@ -2995,7 +2996,7 @@
     "name": "Mohler",
     "types": [
       "Animal",
-      "Orc  for four minions"
+      "Orc"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -3007,7 +3008,7 @@
     "name": "Orc Bloodspark",
     "types": [
       "Humanoid",
-      "Orc  for four minion"
+      "Orc"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -3019,7 +3020,7 @@
     "name": "Orc Glorifier",
     "types": [
       "Humanoid",
-      "Orc  for four minions"
+      "Orc"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -3031,7 +3032,7 @@
     "name": "Orc Blitzer",
     "types": [
       "Humanoid",
-      "Orc  for four minions"
+      "Orc"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -3043,7 +3044,7 @@
     "name": "Orc Razor",
     "types": [
       "Humanoid",
-      "Orc  for four minions"
+      "Orc"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -3619,7 +3620,7 @@
     "name": "Time Raider Archon",
     "types": [
       "Humanoid",
-      "Time Raider  for four minions"
+      "Time Raider"
     ],
     "encounterValue": 5,
     "organization": "minion",
@@ -3631,7 +3632,7 @@
     "name": "Time Raider Myriad",
     "types": [
       "Humanoid",
-      "Time Raider  for four minions"
+      "Time Raider"
     ],
     "encounterValue": 5,
     "organization": "minion",
@@ -3738,7 +3739,7 @@
     "id": "troll-limbjumble",
     "name": "Troll Limbjumble",
     "types": [
-      "Troll  for four minions"
+      "Troll"
     ],
     "encounterValue": 7,
     "organization": "minion",
@@ -3750,7 +3751,7 @@
     "name": "Troll Whelp",
     "types": [
       "Giant",
-      "Troll  for four minions"
+      "Troll"
     ],
     "encounterValue": 7,
     "organization": "minion",
@@ -3786,7 +3787,7 @@
     "name": "Troll Crack Trooper",
     "types": [
       "Giant",
-      "Troll  for four minions"
+      "Troll"
     ],
     "encounterValue": 11,
     "organization": "minion",
@@ -3798,7 +3799,7 @@
     "name": "Troll Ravager",
     "types": [
       "Giant",
-      "Troll  for four minions"
+      "Troll"
     ],
     "encounterValue": 11,
     "organization": "minion",
@@ -3810,7 +3811,7 @@
     "name": "Crawling Claw",
     "types": [
       "Undead",
-      "Soulless  for four minions"
+      "Soulless"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -3822,7 +3823,7 @@
     "name": "Rotting Zombie",
     "types": [
       "Undead",
-      "Soulless  for four minions"
+      "Soulless"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -3834,7 +3835,7 @@
     "name": "Decrepit Skeleton",
     "types": [
       "Undead",
-      "Soulless  for four minions"
+      "Soulless"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -3845,7 +3846,7 @@
     "id": "shade",
     "name": "Shade",
     "types": [
-      "Undead  for four minions"
+      "Undead"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -3936,7 +3937,7 @@
     "name": "Fleshflayed Shambler Zombie",
     "types": [
       "Undead",
-      "Soulless  for four minions"
+      "Soulless"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -3947,7 +3948,7 @@
     "id": "ghoul-craver",
     "name": "Ghoul Craver",
     "types": [
-      "Undead  for four minions"
+      "Undead"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -3959,7 +3960,7 @@
     "name": "Hollowbone Launcher",
     "types": [
       "Undead",
-      "Soulless  for four minions"
+      "Soulless"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -4041,7 +4042,7 @@
     "name": "Blood-Starved Vampire",
     "types": [
       "Undead",
-      "Vampire  for four minions"
+      "Vampire"
     ],
     "encounterValue": 9,
     "organization": "minion",
@@ -4052,7 +4053,7 @@
     "id": "faded-echo-spirit",
     "name": "Faded Echo Spirit",
     "types": [
-      "Undead  for four minions"
+      "Undead"
     ],
     "encounterValue": 9,
     "organization": "minion",
@@ -4064,7 +4065,7 @@
     "name": "Mummy Rotwrap",
     "types": [
       "Mummy",
-      "Undead  for four minions"
+      "Undead"
     ],
     "encounterValue": 9,
     "organization": "minion",
@@ -4144,7 +4145,7 @@
     "name": "Giant Shambler Zombie",
     "types": [
       "Undead",
-      "Soulless  for four minions"
+      "Soulless"
     ],
     "encounterValue": 12,
     "organization": "minion",
@@ -4156,7 +4157,7 @@
     "name": "Skeleton Knight",
     "types": [
       "Undead",
-      "Soulless  for four minions"
+      "Soulless"
     ],
     "encounterValue": 12,
     "organization": "minion",
@@ -4167,7 +4168,7 @@
     "id": "wraith-skulker",
     "name": "Wraith Skulker",
     "types": [
-      "Undead  for four minions"
+      "Undead"
     ],
     "encounterValue": 12,
     "organization": "minion",
@@ -4296,7 +4297,7 @@
     "name": "Mindkiller Whelp",
     "types": [
       "Horror",
-      "Voiceless Talker  for four minions"
+      "Voiceless Talker"
     ],
     "encounterValue": 8,
     "organization": "minion",
@@ -4308,7 +4309,7 @@
     "name": "Voiceless Talker Graywarper",
     "types": [
       "Horror",
-      "Voiceless Talker  for four minions"
+      "Voiceless Talker"
     ],
     "encounterValue": 8,
     "organization": "minion",
@@ -4393,7 +4394,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -4406,7 +4407,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -4419,7 +4420,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -4432,7 +4433,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 3,
     "organization": "minion",
@@ -4562,7 +4563,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -4575,7 +4576,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -4601,7 +4602,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 6,
     "organization": "minion",
@@ -4717,7 +4718,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 9,
     "organization": "minion",
@@ -4730,7 +4731,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 9,
     "organization": "minion",
@@ -4743,7 +4744,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 9,
     "organization": "minion",
@@ -4871,7 +4872,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 12,
     "organization": "minion",
@@ -4884,7 +4885,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 12,
     "organization": "minion",
@@ -4897,7 +4898,7 @@
     "types": [
       "Humanoid",
       "Soulless",
-      "War Dog  for four minions"
+      "War Dog"
     ],
     "encounterValue": 12,
     "organization": "minion",
@@ -5016,5 +5017,418 @@
     "organization": "solo",
     "role": "solo",
     "level": 6
+  },
+  {
+    "id": "angry-beehive",
+    "name": "Angry Beehive",
+    "types": [
+      "Hazard"
+    ],
+    "encounterValue": 2,
+    "organization": "terrain",
+    "role": "hexer",
+    "level": 2
+  },
+  {
+    "id": "brambles",
+    "name": "Brambles",
+    "types": [
+      "Hazard"
+    ],
+    "encounterValue": 1,
+    "organization": "terrain",
+    "role": "defender",
+    "level": 1,
+    "size": {
+      "dimensions": "10 x 10",
+      "object": "thicket"
+    }
+  },
+  {
+    "id": "corrosive-pool",
+    "name": "Corrosive Pool",
+    "types": [
+      "Hazard"
+    ],
+    "encounterValue": 3,
+    "organization": "terrain",
+    "role": "hexer",
+    "level": 2,
+    "size": {
+      "dimensions": "10 x 10",
+      "object": "pool"
+    }
+  },
+  {
+    "id": "frozen-pond",
+    "name": "Frozen Pond",
+    "types": [
+      "Hazard"
+    ],
+    "encounterValue": 1,
+    "organization": "terrain",
+    "role": "hexer",
+    "level": 1,
+    "size": {
+      "dimensions": "10 x 10",
+      "object": "pond"
+    }
+  },
+  {
+    "id": "lava",
+    "name": "Lava",
+    "types": [
+      "Hazard"
+    ],
+    "encounterValue": 4,
+    "organization": "terrain",
+    "role": "hexer",
+    "level": 3,
+    "size": {
+      "dimensions": "10 x 10",
+      "object": "patch"
+    }
+  },
+  {
+    "id": "quicksand",
+    "name": "Quicksand",
+    "types": [
+      "Hazard"
+    ],
+    "encounterValue": 3,
+    "organization": "terrain",
+    "role": "hexer",
+    "level": 3,
+    "size": {
+      "dimensions": "10 x 10",
+      "object": "patch"
+    }
+  },
+  {
+    "id": "toxic-plants",
+    "name": "Toxic Plants",
+    "types": [
+      "Hazard"
+    ],
+    "encounterValue": 2,
+    "organization": "terrain",
+    "role": "hexer",
+    "level": 2,
+    "size": {
+      "dimensions": "10 x 10",
+      "object": "field"
+    }
+  },
+  {
+    "id": "archer-s-stakes",
+    "name": "Archer's Stakes",
+    "types": [
+      "Fortification"
+    ],
+    "encounterValue": 2,
+    "organization": "terrain",
+    "role": "defender",
+    "level": 1
+  },
+  {
+    "id": "bear-trap",
+    "name": "Bear Trap",
+    "types": [
+      "Trap"
+    ],
+    "encounterValue": 2,
+    "organization": "terrain",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "flammable-oil",
+    "name": "Flammable Oil",
+    "types": [
+      "Trap"
+    ],
+    "encounterValue": 2,
+    "organization": "terrain",
+    "role": "ambusher",
+    "level": 1,
+    "size": {
+      "dimensions": "10 x 10",
+      "object": "patch"
+    }
+  },
+  {
+    "id": "hidey-hole",
+    "name": "Hidey-Hole",
+    "types": [
+      "Fortification"
+    ],
+    "encounterValue": 1,
+    "organization": "terrain",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "pavise-shield",
+    "name": "Pavise Shield",
+    "types": [
+      "Fortification"
+    ],
+    "encounterValue": 1,
+    "organization": "terrain",
+    "role": "defender",
+    "level": 1
+  },
+  {
+    "id": "snare-trap",
+    "name": "Snare Trap",
+    "types": [
+      "Trap"
+    ],
+    "encounterValue": 1,
+    "organization": "terrain",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "spike-trap",
+    "name": "Spike Trap",
+    "types": [
+      "Trap"
+    ],
+    "encounterValue": 3,
+    "organization": "terrain",
+    "role": "ambusher",
+    "level": 2
+  },
+  {
+    "id": "column-of-blades",
+    "name": "Column of Blades",
+    "types": [
+      "Fortification"
+    ],
+    "encounterValue": 3,
+    "organization": "terrain",
+    "role": "defender",
+    "level": 3
+  },
+  {
+    "id": "dart-trap",
+    "name": "Dart Trap",
+    "types": [
+      "Trap"
+    ],
+    "encounterValue": 1,
+    "organization": "terrain",
+    "role": "ambusher",
+    "level": 1
+  },
+  {
+    "id": "pillar",
+    "name": "Pillar",
+    "types": [
+      "Hazard"
+    ],
+    "encounterValue": 3,
+    "organization": "terrain",
+    "role": "hexer",
+    "level": 2
+  },
+  {
+    "id": "portcullis",
+    "name": "Portcullis",
+    "types": [
+      "Trap"
+    ],
+    "encounterValue": 4,
+    "organization": "terrain",
+    "role": "ambusher",
+    "level": 3
+  },
+  {
+    "id": "pressure-plate",
+    "name": "Pressure Plate",
+    "types": [
+      "Trigger"
+    ],
+    "encounterValue": 2,
+    "organization": "terrain",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "pulley",
+    "name": "Pulley",
+    "types": [
+      "Trigger"
+    ],
+    "encounterValue": 1,
+    "organization": "terrain",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "ram",
+    "name": "Ram",
+    "types": [
+      "Trap"
+    ],
+    "encounterValue": 3,
+    "organization": "terrain",
+    "role": "ambusher",
+    "level": 2
+  },
+  {
+    "id": "switch",
+    "name": "Switch",
+    "types": [
+      "Trigger"
+    ],
+    "encounterValue": 1,
+    "organization": "terrain",
+    "role": "support",
+    "level": 1
+  },
+  {
+    "id": "holy-idol",
+    "name": "Holy Idol",
+    "types": [
+      "Relic"
+    ],
+    "encounterValue": 7,
+    "organization": "terrain",
+    "role": "support",
+    "level": 5
+  },
+  {
+    "id": "tree-of-might",
+    "name": "Tree of Might",
+    "types": [
+      "Hazard"
+    ],
+    "encounterValue": 14,
+    "organization": "terrain",
+    "role": "hexer",
+    "level": 5
+  },
+  {
+    "id": "psionic-shard",
+    "name": "Psionic Shard",
+    "types": [
+      "Fortification"
+    ],
+    "encounterValue": 7,
+    "organization": "terrain",
+    "role": "defender",
+    "level": 5
+  },
+  {
+    "id": "arrow-launcher",
+    "name": "Arrow Launcher",
+    "types": [
+      "Siege Engine"
+    ],
+    "encounterValue": 8,
+    "organization": "terrain",
+    "role": "artillery",
+    "level": 2
+  },
+  {
+    "id": "boiling-oil-cauldron",
+    "name": "Boiling Oil Cauldron",
+    "types": [
+      "Fortification"
+    ],
+    "encounterValue": 10,
+    "organization": "terrain",
+    "role": "defender",
+    "level": 3
+  },
+  {
+    "id": "catapult",
+    "name": "Catapult",
+    "types": [
+      "Siege Engine"
+    ],
+    "encounterValue": 10,
+    "organization": "terrain",
+    "role": "artillery",
+    "level": 3
+  },
+  {
+    "id": "exploding-mill-wheel",
+    "name": "Exploding Mill Wheel",
+    "types": [
+      "Siege Engine"
+    ],
+    "encounterValue": 10,
+    "organization": "terrain",
+    "role": "artillery",
+    "level": 3
+  },
+  {
+    "id": "field-ballista",
+    "name": "Field Ballista",
+    "types": [
+      "Siege Engine"
+    ],
+    "encounterValue": 8,
+    "organization": "terrain",
+    "role": "artillery",
+    "level": 2
+  },
+  {
+    "id": "iron-dragon",
+    "name": "Iron Dragon",
+    "types": [
+      "Siege Engine"
+    ],
+    "encounterValue": 12,
+    "organization": "terrain",
+    "role": "artillery",
+    "level": 4
+  },
+  {
+    "id": "watchtower",
+    "name": "Watchtower",
+    "types": [
+      "Fortification"
+    ],
+    "encounterValue": 8,
+    "organization": "terrain",
+    "role": "defender",
+    "level": 2
+  },
+  {
+    "id": "the-black-obelisk",
+    "name": "The Black Obelisk",
+    "types": [
+      "Relic"
+    ],
+    "encounterValue": 20,
+    "organization": "terrain",
+    "role": "controller",
+    "level": 3
+  },
+  {
+    "id": "the-chronal-hypercube",
+    "name": "The Chronal Hypercube",
+    "types": [
+      "Relic"
+    ],
+    "encounterValue": 20,
+    "organization": "terrain",
+    "role": "controller",
+    "level": 3
+  },
+  {
+    "id": "the-throne-of-a-an",
+    "name": "The Throne of A'An",
+    "types": [
+      "Relic"
+    ],
+    "encounterValue": 24,
+    "organization": "terrain",
+    "role": "controller",
+    "level": 4
   }
 ]
