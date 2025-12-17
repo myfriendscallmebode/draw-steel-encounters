@@ -24,8 +24,20 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-          cache: 'npm'
-          cache-dependency-path: encounter-builder/package-lock.json
+          
+      - name: Get npm cache directory
+        id: npm-cache
+        working-directory: ./encounter-builder
+        shell: bash
+        run: echo "dir=$(npm config get cache)" >> $GITHUB_OUTPUT
+      
+      - name: Cache npm dependencies
+        uses: actions/cache@v4
+        with:
+          path: ${{ steps.npm-cache.outputs.dir }}
+          key: ${{ runner.os }}-npm-${{ hashFiles('encounter-builder/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-npm-
           
       - name: Install dependencies
         working-directory: ./encounter-builder
