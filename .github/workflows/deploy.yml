@@ -34,16 +34,14 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ${{ steps.npm-cache.outputs.dir }}
-          key: ${{ runner.os }}-npm-${{ hashFiles('encounter-builder/package-lock.json') }}
+          key: ${{ runner.os }}-npm-${{ hashFiles('package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-npm-
           
       - name: Install dependencies
-        working-directory: ./encounter-builder
         run: npm ci
         
       - name: Build
-        working-directory: ./encounter-builder
         run: npm run build
         
       - name: Setup Pages
@@ -52,7 +50,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./encounter-builder/build
+          path: ./build
           
   deploy:
     environment:
