@@ -27,7 +27,6 @@ jobs:
           
       - name: Get npm cache directory
         id: npm-cache
-        working-directory: ./encounter-builder
         shell: bash
         run: echo "dir=$(npm config get cache)" >> $GITHUB_OUTPUT
       
